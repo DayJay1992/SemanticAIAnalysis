@@ -1,0 +1,13 @@
+Model: Deepseek-R1
+Texttype: TextB
+Num_Lemmas: 643
+Unique Lemmas (214):
+abgrenzen, abhängen, ableiten, abtun, abwagen, abzeichnen, adaptieren, adressiern, analysieren, anknüpfen, annehmen, annotieren, anwenden, argumentieren, aufarbeiten, aufgreifen, auftreten, aufweisen, aufzeigen, auswerten, auszeichnen, auszuloten, beanspruchen, beeinflussen, begreifen, begünstigen, behandeln, beitragen, belegen, beleuchten, beobachten, bergen, berücksichtigen, beschreiben, besetzen, bestehen, bestimmen, betonen, betrachten, bewerten, bewältigen, bieten, bilden, bleiben, charakterisieren, coherence, darlegen, darstellen, definieren, determinieren, deuten, dienen, differenzieren, diskutieren, dominiert, eignen, einbetten, einbeziehen, einführen, einnehmen, entfachen, entstehen, entwerfen, entwickeln, erfahren, erfassen, erfolgen, erfordern, erforschen, erfüllen, ergeben, ergänzen, ergänzend, erheben, erklären, erlauben, erleichtern, erläutern, ermöglichen, erscheinen, erweisen, erweitern, erwerben, etablieren, etabliert, evaluieren, fassen, fehlen, finden, finds, fokussieren, folgen, formulieren, fragen, fungieren, führen, gelingen, gelten, gewinnen, gliedern, grammatikalisiert, halten, handeln, heißen, heranziehen, herausarbeiten, herausfordern, herausgearbeitet, herauszuarbeiten, hervorheben, hinterfragen, identifizieren, illustrieren, integrieren, interagieren, interpretieren, inwiefern, kategorisieren, kennzeichnen, klären, knüpfen, kombinieren, kontrastieren, konzentrieren, konzentriert, korrelieren, korrespondieren, lassen, legen, leisten, liefern, liegen, lässt, manifestieren, modellieren, modifizieren, motivieren, münden, nachgegangen, nehmen, nutzen, offenbaren, operationalisieren, orientieren, platzieren, plädieren, postulieren, prägen, präsentieren, rahmen, realisieren, reduzieren, reflektieren, regulieren, reichen, rekonstruieren, rücken, schenken, schlagen, schließen, setzen, skizzieren, spielen, stehen, stellen, steuern, strukturieren, stützen, systematisieren, thematisieren, tragen, treten, umfassen, unterliegen, unterscheiden, unterstreichen, untersuchen, verbinden, verdeutlichen, verdienen, vereinen, verfolgen, vergleichen, verknüpfen, vermitteln, vernachlässigen, verorten, verringern, verschieben, verstehen, vertiefen, vertreten, verweisen, verzahnen, vorausgehen, vornehmen, vorschlagen, vorstellen, vs., weichen, weisen, werfen, widmen, zeichnen, zeigen, ziehen, zielen, zulässen, zusammengefasst, zählen, äußern, öffnen, übernehmen, überprüfen
+
+Stylometric Features:
+NumSentences: 352
+AvgSentenceLength: 25.44
+TTR_Lemma_based: 0.333
+TTR_Token_Based: 0.241
+NumWords: 8955
+AvgWordLength: 6.31

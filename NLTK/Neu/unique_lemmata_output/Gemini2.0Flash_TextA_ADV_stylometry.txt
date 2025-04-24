@@ -1,0 +1,13 @@
+Model: Gemini2.0Flash
+Texttype: TextA
+Num_Lemmas: 135
+Unique Lemmas (75):
+abschließend, adäquat, anschließend, aufbauend, auffällig, ausgehend, beispielsweise, charakteristisch, d.h., dar, dennoch, detailliert, dialogisch, ebenfalls, eindeutig, eingehend, empirisch, gelegentlich, genau, gerecht, gerne, grammatisch, hierbei, hierfür, hilfreich, hingegen, häufig, immens, insbesondere, intensiv, interaktiv, inwiefern, jeher, klar, komplex, konstitutiv, kontinuierlich, kritisch, lediglich, maßgeblich, meist, methodisch, miteinander, mitunter, möglicherweise, nachweisbar, neu, obligatorisch, primär, prominent, prototypisch, präzis, quantitativ, reich, relativ, selten, semantisch, sequenzanalytisch, signifikant, sogar, somit, stattdessen, systematisch, teils, typischerweise, unmittelbar, untersucht, unzureichend, verantwortlich, vergleichend, vergleichsweise, weitgehend, wichtig, z.b., zugrunde
+
+Stylometric Features:
+NumSentences: 250
+AvgSentenceLength: 24.39
+TTR_Lemma_based: 0.556
+TTR_Token_Based: 0.241
+NumWords: 6098
+AvgWordLength: 6.27

@@ -1,0 +1,13 @@
+Model: Deepseek-V3
+Texttype: TextB
+Num_Lemmas: 492
+Unique Lemmas (167):
+abdecken, abgrenzen, abzubilden, analysieren, anerkennen, anknüpfen, annotieren, antreffen, argumentieren, auftreten, aufweisen, aufzeigen, aufzuzeigen, ausgehen, auswerten, auszeichnen, basieren, beeinflussen, befassen, begreifen, begünstigen, behandeln, beherrschen, beitragen, belegen, beleuchten, beobachten, bereichern, berücksichtigen, berühren, beschreiben, beschäftigen, besetzen, bestehen, betonen, betrachten, bezeichnen, bieten, bleiben, clahse, darlegen, darstellen, definieren, determinieren, dienen, diskutieren, durchführen, einbetten, einbeziehen, eingehen, einnehmen, einordnen, enthalten, entwickeln, erfahren, erfassen, erforschen, erfüllen, ergeben, ergänzen, erheben, erleichtern, erläutern, ermöglichen, erregen, erweisen, erwerben, erörtern, evaluieren, fehlen, festlegen, feststellen, finden, folgen, fungieren, führen, geben, gehören, gelten, gestalten, gewinnen, gewährleisten, gliedern, grammatikalisiert, heranziehen, herausarbeiten, herauszuarbeiten, hindeuten, identifizieren, integrieren, inwiefern, kennzeichnen, klassifizieren, klären, kombinieren, korrelieren, kritisieren, lassen, legen, leisten, liefern, liegen, lässt, manifestieren, meistern, modellieren, nachgehen, nachgezeichnet, nahelegen, nehmen, nennen, nutzen, plädieren, positionieren, postulieren, präsentieren, präzisieren, reflektieren, reichen, reservieren, rücken, schaffen, scheinen, schließen, setzen, skizzieren, spielen, stehen, stellen, steuern, stützen, systematisieren, tragen, treffen, treten, umfassen, unterbeleuchtet, unterliegen, unterscheiden, untersuchen, unterzogen, verbinden, verbreiten, verdeutlichen, verfolgen, verfügen, vergleichen, verlaufen, vermitteln, verstehen, versuchen, verweisen, verwenden, vorhersagen, vorliegen, vornehmen, vorstellen, weisen, werfen, widmen, zeichnen, zeigen, ziehen, zurückgegriffen, zusammengefasst, zählen, überprüfen
+
+Stylometric Features:
+NumSentences: 314
+AvgSentenceLength: 22.39
+TTR_Lemma_based: 0.339
+TTR_Token_Based: 0.223
+NumWords: 7031
+AvgWordLength: 6.22

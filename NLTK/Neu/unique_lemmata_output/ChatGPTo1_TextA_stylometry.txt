@@ -1,0 +1,10 @@
+Model: ChatGPTo1
+Texttype: TextA
+Unique Lemmas (141):
+abbilden, ableiten, abweichen, analysieren, annehmen, ansiedeln, aufbauen, aufnehmen, auftauchen, auftreten, aufweisen, aufzeigen, aufzuzeigen, aushandeln, auswirken, beeinflussen, begleiten, behandeln, beitragen, beleuchten, beobachten, berücksichtigen, besetzen, betonen, betrachten, bezeichnen, bieten, bleiben, bringen, darlegen, darstellen, diskutieren, drohen, durchbrochen, durchführen, einbetten, einbeziehen, einbinden, eingehen, einnehmen, einrahmen, erfassen, erfüllen, ergeben, erkennen, erklären, erlauben, ermöglichen, erscheinen, erweisen, erzeugen, erörtern, etablieren, finden, folgen, fußen, führen, geben, gehören, gelangen, gelten, genübergestellen, geraten, geschehen, gestalten, greifen, handeln, heranziehen, herauszuarbeiten, hinausgehen, identifizieren, illustrieren, inwiefern, klären, knüpfen, kommst, konkurrieren, lassen, leisten, lenken, liefern, manifestieren, motivieren, nehmen, normieren, nutzen, offenbaren, organisieren, orientieren, plädieren, postulieren, prägen, realisieren, reflektieren, richten, rücken, schaffen, scheinen, setzen, signalisieren, skizzieren, sorgen, spiegeln, spielen, stehen, stellen, steuern, stoßen, suggerieren, systematisieren, tragen, unterbelichten, unterscheiden, untersuchen, variieren, veranschaulichen, verfolgen, verorten, verpassen, verschieben, verstehen, vertiefen, verweisen, verwenden, vollziehen, vorgeschalten, vorkommen, vorsehen, vorstellen, werfen, zeichnen, zeigen, ziehen, zielen, zulassen, zurückgegriffen, zusammenfassen, zusammenwirken, zählen, überlappen, übernehmen
+
+Stylometric Features:
+NumSentences: 124
+AvgSentenceLength: 27.1
+TTR: 0.042
+AvgWordLength: 6.39

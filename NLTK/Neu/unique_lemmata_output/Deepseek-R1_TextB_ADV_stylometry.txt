@@ -1,0 +1,13 @@
+Model: Deepseek-R1
+Texttype: TextB
+Num_Lemmas: 273
+Unique Lemmas (112):
+abschließend, adaptiv, adressierend, allgemein, andererseits, anekdotisch, anknüpfend, anschließend, aufbauend, ausgehend, ausschließlich, basierend, bemerkenswert, biologisch, bislang, dar, defizitär, dennoch, diachrone, didaktisch, diskursiv, einerseits, einfach, empirisch, eng, entscheidend, erheblich, ernst, erstens, etc., fokussieren, frequent, früh, fundamental, funktional, gestern, gezielt, gleichzeitig, handlungslogisch, hierbei, hierfür, hingegen, häufig, infrag, innen, insbesondere, insofern, intensivsten, interaktional, kanonisch, kausal, keineswegs, konkret, konsequent, kontrastiv, kontrovers, kreativ, kritisch, lediglich, lenerz, longitudinal, marginal, maßgeblich, methodisch, neu, pragmatisch, primär, prominent, prototypisch, präzis, qualitativ, quantitativ, quantitativ-statistisch, randständig, regelwidrig, rhythmisch, russisch, salient, selten, situativ, somit, sprachspezifisch, spät, stabil, stark, strukturell, subjunktionaler, syntaktisch, systematisch, teilweise, temporal, thematisch, theoretisch, traditionell, typischerweise, umfangreich, umfassend, unerforscht, ungeklärt, unterschiedlich, unzureichend, vereinbar, vergleichsweise, vermeintlich, vielmehr, vorrangig, vorwiegend, weiterhin, zudem, zuletzt, zunehmend, zweitens
+
+Stylometric Features:
+NumSentences: 352
+AvgSentenceLength: 25.44
+TTR_Lemma_based: 0.41
+TTR_Token_Based: 0.241
+NumWords: 8955
+AvgWordLength: 6.31

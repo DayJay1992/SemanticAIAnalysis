@@ -1,0 +1,13 @@
+Model: Geminiflash2.0thinking
+Texttype: TextA
+Num_Lemmas: 471
+Unique Lemmas (179):
+abhängen, ableiten, abnehmen, abtun, abweichen, abzielen, aktualisieren, analysieren, anwenden, argumentieren, aufbauen, auftreten, aufweisen, aufwerfen, aufwirft, aufzeigen, aufzuzeigen, ausdrücken, auseinandergesetzt, auseinandersetzen, auswirken, beantworten, bearbeiten, bedürfen, beeinflussen, beginnen, beitragen, beleuchten, beobachten, bereichern, berücksichtigen, berühren, beschreiben, beschränken, beschäftigen, besetzen, bestehen, bestimmen, betrachten, bevorzugen, bezeichnen, beziehen, bieten, bilden, bleiben, charakterisieren, darlegen, darstellen, definieren, demonstrieren, determinieren, dienen, differenzieren, diskutieren, dominieren, durchführen, einfügen, eingebetten, einleiten, einnehmen, einordnen, entwickeln, erfassen, erfolgen, erfordern, erforschen, erfüllen, erklären, erlernen, ermitteln, ermöglichen, erreichen, erschließen, erschweren, erwarten, erweitern, erwerben, erörtern, etablieren, evaluieren, existieren, finden, fokussieren, folgen, fordern, fungieren, führen, geben, gehören, gelangen, gelten, gestalten, gewinnen, gewährleisten, gliedern, greifen, handeln, helfen, heranziehen, herauszuarbeiten, herstellen, hinausgehen, hängen, identifizieren, illustrieren, intendieren, interpretieren, inwiefern, kennzeichnen, klassifizieren, klären, koinzidieren, kombinieren, konzentrieren, lassen, legen, leisten, liefern, liegen, lässt, manifestieren, markieren, nachgehen, nehmen, nutzen, operieren, platzieren, postulieren, prägen, präsentieren, reagieren, regeln, reglementieren, repräsentieren, rücken, salient, scheinen, schlagen, signalisieren, spielen, sprechen, stattfinden, stehen, stellen, steuern, stiften, stützen, tragen, transportieren, umklammern, unterliegen, unterscheiden, unterstreichen, untersuchen, unterteilen, variieren, veranschaulichen, verbinden, verfügen, vergleichen, verhindern, verschaffen, verstehen, verändern, vorherzusagen, wahrnehmen, weisen, werfen, widerlegen, widersprechen, widmen, würdigen, zeichnen, zeigen, zielen, zusammengefasst, ähneln, übernehmen, überprüfen
+
+Stylometric Features:
+NumSentences: 269
+AvgSentenceLength: 25.66
+TTR_Lemma_based: 0.38
+TTR_Token_Based: 0.246
+NumWords: 6902
+AvgWordLength: 6.42

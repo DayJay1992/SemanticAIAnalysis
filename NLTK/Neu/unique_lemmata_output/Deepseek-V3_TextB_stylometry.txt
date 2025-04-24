@@ -1,0 +1,10 @@
+Model: Deepseek-V3
+Texttype: TextB
+Unique Lemmas (125):
+abdecken, abgrenzen, abzubilden, analysieren, anknüpfen, annotieren, antreffen, argumentieren, auftreten, aufweisen, aufzeigen, aufzuzeigen, ausgehen, auswerten, auszeichnen, basieren, beeinflussen, befassen, begreifen, begünstigen, behandeln, beitragen, belegen, beleuchten, berücksichtigen, berühren, beschreiben, besetzen, betonen, betrachten, bezeichnen, bieten, bleiben, darlegen, darstellen, definieren, determinieren, dienen, diskutieren, einbetten, einbeziehen, eingehen, einnehmen, einordnen, enthalten, entwickeln, erfahren, erfassen, erforschen, erfüllen, ergeben, ergänzen, erheben, erläutern, ermöglichen, erregen, erweisen, erörtern, festlegen, feststellen, finden, folgen, fungieren, führen, geben, gelten, gestalten, gewinnen, gewährleisten, gliedern, grammatikalisiert, heranziehen, herausarbeiten, herauszuarbeiten, identifizieren, inwiefern, kennzeichnen, klassifizieren, kritisieren, lassen, legen, leisten, liegen, manifestieren, nachgehen, nehmen, nennen, nutzen, plädieren, positionieren, postulieren, präsentieren, präzisieren, reflektieren, reservieren, rücken, schaffen, scheinen, setzen, skizzieren, spielen, stehen, stellen, steuern, stützen, systematisieren, tragen, umfassen, unterbeleuchtet, unterliegen, unterscheiden, untersuchen, unterzogen, verdeutlichen, verstehen, versuchen, verwenden, vornehmen, vorstellen, weisen, werfen, widmen, zeichnen, zeigen, zurückgegriffen
+
+Stylometric Features:
+NumSentences: 175
+AvgSentenceLength: 22.77
+TTR: 0.031
+AvgWordLength: 6.19

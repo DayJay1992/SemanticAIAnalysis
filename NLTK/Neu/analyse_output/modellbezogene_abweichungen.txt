@@ -1,0 +1,93 @@
+🧠 Stärkste positiven Abweichungen je Modell:
+
+▶ ChatGPT4o – TextA
+  konstruktion                   +7
+  wortstellung                   +6
+  grundlegend                    +5
+  bestimmt                       +4
+  prinzip                        +4
+
+▶ ChatGPT4o – TextB
+  analysieren                    +9
+  struktur                       +9
+  empirisch                      +8
+  insbesondere                   +7
+  zeigen                         +7
+
+▶ ChatGPTo1 – TextA
+  unterschiedlich                +8
+  verständnis                    +7
+  beleuchten                     +6
+  beschreibung                   +6
+  sogenannter                    +5
+
+▶ ChatGPTo1 – TextB
+  abschnitt                      +12
+  diskussion                     +8
+  deutsche                       +8
+  theoretisch                    +7
+  dudenredaktion                 +7
+
+▶ Deepseek-R1 – TextA
+  interaktion                    +6
+  strukturell                    +6
+  systematisch                   +6
+  prägen                         +6
+  flexibilität                   +6
+
+▶ Deepseek-R1 – TextB
+  syntaktisch                    +16
+  systematisch                   +10
+  methodisch                     +9
+  gliedern                       +9
+  artikel                        +9
+
+▶ Deepseek-V3 – TextA
+  kommunikativ                   +6
+  stellen                        +6
+  bieten                         +5
+  mehrfach                       +5
+  struktur                       +5
+
+▶ Deepseek-V3 – TextB
+  methodisch                     +13
+  stützen                        +9
+  syntax                         +8
+  diskutieren                    +8
+  linguistisch                   +7
+
+▶ Gemini2.0Flash – TextA
+  satz                           +12
+  verschieden                    +11
+  sprache                        +11
+  arbeit                         +9
+  komplex                        +8
+
+▶ Gemini2.0Flash – TextB
+  arbeit                         +27
+  satz                           +18
+  satzanfang                     +14
+  komplex                        +12
+  analyse                        +10
+
+▶ Geminiflash2.0thinking – TextA
+  grammatisch                    +13
+  satz                           +11
+  phänomen                       +10
+  bereich                        +9
+  detailliert                    +9
+
+▶ Geminiflash2.0thinking – TextB
+  kapitel                        +25
+  detailliert                    +15
+  analyse                        +12
+  vorliegend                     +10
+  grammatisch                    +10
+
+▶ HumanText – Original
+  satz                           +28
+  vorfeld                        +19
+  adverbial                      +18
+  abschnitt                      +17
+  stehen                         +16
+

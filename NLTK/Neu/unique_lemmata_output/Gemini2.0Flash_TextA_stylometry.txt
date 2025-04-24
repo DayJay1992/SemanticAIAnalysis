@@ -1,0 +1,10 @@
+Model: Gemini2.0Flash
+Texttype: TextA
+Unique Lemmas (121):
+abbrechen, abgrenzen, analysieren, argumentieren, aufbauen, auftreten, aufweisen, ausdrücken, auseinandersetzen, auslassen, aussehen, auswerten, basieren, beantworten, beeinflussen, beginnen, beitragen, beleuchten, bereiten, berücksichtigen, besagen, beschreiben, beschränken, beschäftigen, besetzen, bestehen, betrachten, bezeichnen, bieten, bilden, darstellen, definieren, demonstrieren, determinieren, dienen, diskutieren, durchbrechen, durchbrochen, einfügen, eingehen, einnehmen, einsetzen, enthalten, entwickeln, erfassen, erfüllen, erklären, ermöglichen, erweisen, erörtern, existieren, feststellen, finden, folgen, führen, geben, gehören, gelten, geschehen, gestalten, gewinnen, gliedern, handeln, herausforderen, herauszuarbeiten, herstellen, hervorgehen, hervorheben, hoffen, identifizieren, illustrieren, interagieren, interessieren, inwiefern, kategorisieren, kennzeichnen, kodieren, konzentrieren, korrelieren, lassen, legen, leisten, lenken, liefern, liegen, manifestieren, nachgehen, nähern, realisieren, schaffen, scheinen, schließen, spielen, stehen, stellen, stoßen, stützen, tragen, umfasst, unterliegen, unterscheiden, untersuchen, verankern, verbinden, verknüpfen, vermitteln, vernachlässigen, verstehen, verweisen, verwenden, verändern, vorschlagen, vorstellen, weisen, werfen, widmen, zeichnen, zeigen, zusammenfassen, überlieferen, übernehmen
+
+Stylometric Features:
+NumSentences: 151
+AvgSentenceLength: 23.06
+TTR: 0.035
+AvgWordLength: 6.12

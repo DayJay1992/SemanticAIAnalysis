@@ -1,0 +1,13 @@
+Model: ChatGPT4o
+Texttype: TextB
+Num_Lemmas: 538
+Unique Lemmas (180):
+ableiten, abweichen, abzielen, analysieren, annehmen, ansehen, anstreben, argumentieren, aufstellen, aufteilen, auftreten, aufweisen, aufzeigen, aufzuzeigen, ausdrücken, ausgehen, ausreichen, auswerten, basieren, bedingen, beeinflussen, beeinflussn, befassen, beitragen, beleuchten, beobachten, berücksichtigen, beschreiben, beschränken, beschäftigen, besetzen, bestehen, bestimmen, bestätigen, betonen, betrachten, bevorzugen, bieten, bilden, bleiben, charakterisieren, darstellen, determinieren, dienen, differenzieren, diskutieren, durchführen, einbetten, einfügen, eingehen, eingeordnen, einhergehen, einnehmen, einordnen, entwickeln, erfahren, erfassen, erfolgen, erfordern, erfüllen, ergeben, ergänzen, ergänzend, erhalten, erheben, erklären, erlauben, erläutern, ermöglichen, erregen, erreichen, erscheinen, erschließen, erwarten, erweitern, erwerben, eröffnen, erörtern, existieren, feststellen, finden, folgen, fordern, freuen, fungieren, fördern, führen, geben, gehören, gelten, gestalten, gewinnen, gewähren, gliedern, handeln, heranziehen, herausgearbeitet, herauszuarbeiten, herrschen, hervorheben, hindeuten, hinweisen, hängen, identifizieren, interpretieren, inwiefern, klären, kommst, kontrastieren, korrelieren, lassen, lauten, legen, leisten, liegen, lässt, manifestieren, markieren, motivieren, nachgehen, nachzeichnen, nehmen, niederschlagen, orientieren, plädieren, positionieren, produzieren, prägen, präsentieren, prüfen, reagieren, realisieren, reflektieren, rekonstruieren, rücken, schlagen, schließen, setzen, skizzieren, spielen, stehen, stellen, steuern, stützen, thematisieren, tragen, treffen, treten, umfassen, unterliegen, unterscheiden, untersuchen, verfolgen, vergleichen, verknüpfen, verlangen, vernachlässigen, verstehen, versuchen, vertiefen, vertreten, vorausgehen, vorschlagen, vorstellen, weisen, weiterentwickeln, weißen, werfen, widerspiegeln, widmen, zeichnen, zeigen, ziehen, zulassen, zusammengefasst, zuweisen, zählen, äußern, übernehmen, überprüfen
+
+Stylometric Features:
+NumSentences: 345
+AvgSentenceLength: 23.1
+TTR_Lemma_based: 0.335
+TTR_Token_Based: 0.236
+NumWords: 7970
+AvgWordLength: 6.2

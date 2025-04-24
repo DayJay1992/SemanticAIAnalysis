@@ -1,0 +1,13 @@
+Model: Deepseek-V3
+Texttype: TextB
+Num_Lemmas: 188
+Unique Lemmas (65):
+abschließend, adäquat, anschließend, aufbauend, ausführlich, beispielsweise, bislang, dar, dennoch, detailliert, diskussionswürdig, eingehend, empirisch, entscheidend, erfolgreich, fundamental, funktional, hierarchisch, hierbei, hierfür, häufig, innen, insbesondere, intensiv, invariant, kontinuierlich, kontrastiv, kontrovers, kritisch, lediglich, lenerz, lernerfreundlich, longitudinal, marginal, maßgeblich, methodisch, produktiv, qualitativ, quantitativ, schließlich, signifikant, sogar, stabil, standardsprachlich, stark, starr, strukturell, subjunktional, synchron, systematisch, theoretisch, traditionell, typischerweise, umfassend, unabhängig, unmarkiert, unterschiedlich, unzureichend, vergleichsweise, vielfach, weiterhin, weitgehend, zudem, zugrunde, zunehmend
+
+Stylometric Features:
+NumSentences: 314
+AvgSentenceLength: 22.39
+TTR_Lemma_based: 0.346
+TTR_Token_Based: 0.223
+NumWords: 7031
+AvgWordLength: 6.22

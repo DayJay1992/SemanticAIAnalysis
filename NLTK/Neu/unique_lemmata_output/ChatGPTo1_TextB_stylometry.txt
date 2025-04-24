@@ -1,0 +1,10 @@
+Model: ChatGPTo1
+Texttype: TextB
+Unique Lemmas (159):
+abstecken, abzubilden, akzeptieren, analysieren, anpassen, anregen, anschließen, aufeinandertreffen, auftreten, aufweisen, aufzeigen, aufzuzeigen, ausgehen, ausgestalten, beanspruchen, bedürfen, beeinflussen, befassen, begründen, begünstigen, beinhalten, beitragen, beleuchten, berücksichtigen, berühren, beschreiben, besitzen, bestehen, betrachten, betreffen, bewerten, bieten, bilden, bleiben, bring, bringen, darlegen, darstellen, definieren, deuten, dienen, diskutieren, dokumentieren, durchführen, einbetten, einfließen, eingehen, eingeordnen, einordnen, entwickeln, erfahren, erfassen, erfolgen, erfordern, erfüllen, ergänzen, erklären, erlauben, erläutern, ermöglichen, erregen, erscheinen, erweitern, erwähnen, eröffnen, erörtern, fassen, fehlen, finden, folgen, fordern, führen, geben, gebieten, gelten, gestalten, gewinnen, gliedern, heranziehen, herausarbeiten, herauskristallisieren, herausstellen, herauszuarbeiten, herstellen, hervorheben, hindeuten, identifizieren, illustrieren, integrieren, interagieren, interpretieren, inwiefern, isolieren, kennzeichnen, legen, leisten, liefern, liegen, manifestieren, markieren, modellieren, plädieren, positionieren, präsentieren, präzisieren, realisieren, rekurrieren, repräsentieren, rufe, rücken, rühren, schaffen, schließen, schulden, schärfen, sehen, setzen, skizzieren, sorgen, spiegeln, spielen, stehen, stellen, steuern, strukturieren, stützen, testen, umgehen, unterliegen, unterscheiden, untersuchen, veranschaulichen, verbinden, verdeutlichen, verfolgen, verknüpfen, vermitteln, verorten, verschränken, verstehen, versuchen, verweisen, verwenden, vorschreiben, vorstellen, werfen, widmen, wirken, zeichnen, zeigen, ziehen, zielen, zukommen, zurückgegriffen, zusammengefasst, zusammenkommen, zusammenstellen, zählen, übernehmen
+
+Stylometric Features:
+NumSentences: 198
+AvgSentenceLength: 23.26
+TTR: 0.035
+AvgWordLength: 6.17

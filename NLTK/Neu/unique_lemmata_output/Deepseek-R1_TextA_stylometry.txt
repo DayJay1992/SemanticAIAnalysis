@@ -1,0 +1,10 @@
+Model: Deepseek-R1
+Texttype: TextA
+Unique Lemmas (171):
+abbilden, abtun, adressieren, analysieren, antreffen, argumentieren, auftreten, aufweisen, aufwirft, aufzuzeigen, auseinandergesetzt, ausloten, ausrichten, ausstehen, auszeichnen, beeinflussen, begreifen, begünstigen, behandeln, beleuchten, beobachten, berühren, beschreiben, besetzen, besuchen, betonen, betrachten, betreiben, bewerten, bezeichnen, bieten, bleiben, charakterisieren, darstellen, demonstrieren, denken, determinieren, deuten, dienen, diskutieren, durchführen, einbetten, einnehmen, einsetzen, enkodieren, entfalten, entziehen, erfahren, erfassen, erfolgen, erfordern, erforschen, erfüllen, ergeben, erhalten, erkennen, erklären, ermöglichen, erweisen, erweitern, etablieren, fehlen, festschreiben, finden, fokussieren, folgen, fungieren, geben, gelten, genübergestellen, gewinnen, gliedern, handeln, herausarbeiten, herausfordern, herauszuarbeiten, hervorheben, hinausgehen, identifizieren, interagieren, inwiefern, kennzeichnen, klären, kombinieren, kombiniert, konfrontieren, konkurrieren, konturieren, konzentrieren, lassen, legen, leisten, lesen, liefern, lässt, manifestieren, markieren, messen, modellieren, modifizieren, motivieren, münden, nachgehen, nehmen, offenbaren, ordnen, orientieren, oszillieren, plädieren, positionieren, prägen, rechtfertigen, reflektieren, regulieren, rekonstruieren, rücken, schaffen, scheinen, schlagen, schließen, setzen, skizzieren, spiegeln, spielen, stehen, stellen, steuern, stoßen, stützen, systematisieren, tragen, transportieren, treten, umfassen, unterbelichten, unterlaufen, unterliegen, unterscheiden, unterstreichen, untersuchen, untersucht, verankern, veranschaulichen, verbinden, verdeutlichen, verdrängen, verfolgen, verfügen, verlangen, vermuten, vernachlässigen, verorten, verschieben, verstehen, verweisen, verwischen, vornehmen, weißen, werfen, widmen, wissen, zeigen, zielen, zukommen, zulässen, zurückführen, zurückverfolgen, zusammenführen, zuschreiben, zuweisen, zählen
+
+Stylometric Features:
+NumSentences: 153
+AvgSentenceLength: 26.48
+TTR: 0.042
+AvgWordLength: 6.51

@@ -1,0 +1,13 @@
+Model: ChatGPT4o
+Texttype: TextA
+Num_Lemmas: 142
+Unique Lemmas (83):
+abschließend, adaptiv, anschließend, aufbauend, auffällig, ausgeprägt, berüchtigt, berühmt, bevorzugen, dar, dennoch, detailliert, deutlich, diachron, didaktisch, diffus, einfach, empirisch, entscheidend, essentiell, fehlerhaft, genau, gestern, gezielt, grammatikalisch, großartig, hierbei, hingegen, hinzu, hochkomplex, häufig, insbesondere, jeher, keineswegs, komplex, kontrovers, kritisch, lediglich, letztlich, manchmal, maßgeblich, miteinander, mitunter, möglicherweise, nachvollziehbar, nah, parallel, pragmatisch, prosodisch, regelhaft, regelmäßig, scheinbar, schriftsprachlich, sichtbar, situationsabhängig, situativ, sogar, somit, stabil, stark, stilistisch, streng, strikt, synchron, syntaktisch, systematisch, thematisch, theoretisch, traditionell, typischerweise, umfassend, unabhängig, ungrammatisch, unzureichend, ursprünglich, vielfach, vollständig, weitgehend, wider, zudem, zugrunde, zumindest, zunehmend
+
+Stylometric Features:
+NumSentences: 193
+AvgSentenceLength: 23.94
+TTR_Lemma_based: 0.585
+TTR_Token_Based: 0.277
+NumWords: 4620
+AvgWordLength: 6.38

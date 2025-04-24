@@ -1,0 +1,13 @@
+Model: Gemini2.0Flash
+Texttype: TextB
+Num_Lemmas: 566
+Unique Lemmas (178):
+ableiten, abnehmen, abweichen, abzielen, adressiern, analysieren, ansehen, antreffen, argumentieren, aufdecken, auftreten, aufweisen, aufwirfen, aufzeichnen, aufzeigen, aufzuzeigen, ausdrücken, auseinandergesetzt, auseinandersetzen, basieren, beantworten, bedingen, beeinflussen, beeinträchtigen, begünstigen, behandeln, behindern, beitragen, beleuchten, beobachten, bereiten, bergen, berücksichtigen, besagen, beschreiben, beschränken, beschäftigen, bestehen, bestimmen, betonen, betrachten, betreffen, bieten, bilden, bleiben, darlegen, darstellen, definieren, determinieren, dienen, diskutieren, durchführen, einbeziehen, eingehen, eingeordnen, einhergehen, einleiten, einnehmen, einordnen, einsetzen, entwickeln, erfassen, erfolgen, erfordern, erfüllen, ergeben, ergänzen, erheben, erklären, erläutern, ermöglichen, erreichen, erscheinen, erweisen, erzielen, erörtern, etablieren, existieren, fassen, feststellen, finden, folgen, fungieren, fügen, führen, geben, gelten, gewinnen, gliedern, handeln, heranziehen, herausstellen, herauszuarbeiten, hervorzuheben, horchen, identifizieren, illustrieren, integrieren, interagieren, interpretieren, inwiefern, klassifizieren, konkurrieren, konstituieren, konzentrieren, lassen, legen, leisten, liefern, liegen, lässt, markieren, modellieren, nachgegehen, nachgehen, nachzeichnen, nehmen, nutzen, planen, prägen, präsentieren, regnen, richten, rücken, schaffen, scheinen, schenken, schließen, sehen, setzen, skizzieren, spielen, stammen, stehen, stellen, strukturieren, stützen, thematisieren, tragen, treten, umfassen, unterliegen, unterscheiden, unterstützen, untersuchen, untersucht, verbinden, verdeutlichen, verfolgen, vergleichen, verletzen, verorten, versprechen, verstehen, verstärken, vertiefen, verweisen, vorbereiten, vorschlagen, vorschreiben, vorstellen, weisen, werfen, widersprechen, widmen, wünschen, zeichnen, zeigen, ziehen, zielen, zulassen, zulässen, zurückgegriffen, zusammenfassen, zusammengefasst, zählen, übernehmen, übertragen
+
+Stylometric Features:
+NumSentences: 390
+AvgSentenceLength: 21.47
+TTR_Lemma_based: 0.314
+TTR_Token_Based: 0.214
+NumWords: 8375
+AvgWordLength: 6.09

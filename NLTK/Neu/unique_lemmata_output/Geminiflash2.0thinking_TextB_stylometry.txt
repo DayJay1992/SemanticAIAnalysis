@@ -1,0 +1,10 @@
+Model: Geminiflash2.0thinking
+Texttype: TextB
+Unique Lemmas (142):
+1ff, abgrenzen, analysieren, annehmen, anwenden, argumentieren, aufheben, auftreten, aufweisen, aufzeigen, aufzuzeigen, auseinandergesetzt, auseinandersetzen, auszeichnen, basieren, beantworten, bearbeiten, bedienen, bedürfen, beeinflussen, beeinflussn, befassen, beherbergen, beitragen, beleuchten, berücksichtigen, beschreiben, besetzen, bestehen, betonen, betrachten, bieten, darlegen, darstellen, definieren, determinieren, dienen, diskutieren, dokumentieren, eingehen, einleiten, einnehmen, entwerfen, entwickeln, erfassen, erfolgen, erfordern, erfüllen, erklären, erlauben, erläutern, ermöglichen, erreichen, erscheinen, erweisen, etablieren, fassen, finden, folgen, fungieren, führen, geben, geraten, gliedern, heranziehen, herausarbeiten, herauszuarbeiten, herstellen, hervorbringen, hinauszugehen, identifizieren, ignorieren, implizieren, interpretieren, kennzeichnen, klassifizieren, kombinieren, konkurrieren, kontrastieren, konzentrieren, leisten, lesen, liefern, liegen, manifestieren, modellieren, nehmen, nennen, orientieren, postulieren, präsentieren, prüfen, rechtfertigen, reservieren, rücken, scheinen, schenken, schließen, sehen, signalisieren, situieren, skizzieren, spazieren, spielen, stehen, stellen, steuern, strukturieren, stützen, tragen, treffen, umfassen, unterscheiden, unterstreichen, untersuchen, unterteilen, unterzogen, veranschlagen, vereinen, verfehlen, verfolgen, vergleichen, verstehen, versuchen, vertiefen, vollziehen, vorangehen, vornehmen, vorschlagen, vorsehen, vorstellen, weisen, werfen, widmen, wählen, zeichnen, zeigen, zielen, zukommen, zuordnen, zurückgegriffen, zusammengefasst
+
+Stylometric Features:
+NumSentences: 223
+AvgSentenceLength: 21.53
+TTR: 0.03
+AvgWordLength: 6.1

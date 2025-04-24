@@ -1,0 +1,13 @@
+Model: ChatGPT4o
+Texttype: TextB
+Num_Lemmas: 210
+Unique Lemmas (93):
+abschließend, adäquat, akzeptabel, andererseits, anfällig, anschließend, aufbauend, aufschlussreich, ausführlich, bemerkenswert, bislang, bloß, dar, dennoch, detailliert, diskurspragmatisch, ehrlich, einerseits, einfach, einheitlich, einsprachig, empirisch, eng, ergänzend, exemplarisch, fest, fundiert, funktional, gemeinhin, genau, gerecht, gleichermaßen, grammatikalisch, grammatisch, grundlegend, heraus, hinweg, häufig, insbesondere, insgesamt, intensiv, inwieweit, jeher, jeweils, kontrastiv, kontrovers, korrekt, kritisch, lediglich, lenerz, longitudinal, längsschnittlich, maßgeblich, mehrfach, methodisch, nah, notwendigerweise, praktisch, primär, regelhaft, relevant, schließlich, schriftsprachlich, sekundär, sensitiv, sichtbar, somit, stabil, stattdessen, stilistisch, strukturell, synchron, syntaktisch, systematisch, tatsächlich, teils, theoretisch, typischerweise, unberücksichtigt, unklar, unterschiedlich, ursprünglich, verstärken, vielfach, weitgehend, wobei, zentral, zudem, zueinander, zufällig, zugrunde, zunehmend, zusätzlich
+
+Stylometric Features:
+NumSentences: 345
+AvgSentenceLength: 23.1
+TTR_Lemma_based: 0.443
+TTR_Token_Based: 0.236
+NumWords: 7970
+AvgWordLength: 6.2

@@ -1,0 +1,13 @@
+Model: ChatGPT4o
+Texttype: TextA
+Num_Lemmas: 328
+Unique Lemmas (148):
+abhängen, ableiten, abweichen, akzeptieren, analysieren, anbieten, anordnen, anrufen, ansehen, argumentieren, aufarbeiten, auftreten, aufweisen, aufzeigen, aufzuzeigen, ausgehen, auswirken, auszuloten, basieren, beeinflussen, beginnen, beherbergen, beherrschen, beitragen, beleuchten, beobachten, berücksichtigen, berühren, besagen, beschreiben, besetzen, bestehen, bestimmen, betonen, betrachten, betreffen, bevorzugen, bewerten, beziehen, bieten, bilden, bleiben, charakterisieren, darlegen, darstellen, dienen, diskutieren, durchführen, eingehen, einnehmen, einordnen, einsetzen, enthalten, entwickeln, erfassen, erfolgen, erforschen, erfüllen, ergeben, erkennen, erklären, ermöglichen, erscheinen, erwerben, eröffnen, fassen, festlegen, finden, folgen, führen, gehören, gelten, gestalten, gewinnen, handeln, heranziehen, herausarbeiten, herausbilden, herauszuarbeiten, herstellen, hinterfragen, hinweisen, identifizieren, illustrieren, interagieren, interpretieren, inwiefern, kennzeichnen, klären, lassen, lauten, legen, leisten, liefern, liegen, lässt, markieren, motivieren, nachgegehen, nehmen, ordnen, organisieren, orientieren, plädieren, prägen, realisieren, rechtfertigen, regeln, reichen, reisen, resultieren, rücken, scheinen, signalisieren, skizzieren, spiegeln, spielen, stehen, stellen, stützen, transportieren, treten, unterliegen, unterscheiden, untersuchen, variieren, veranlassen, verfolgen, verhalten, verstecken, verstehen, verwenden, vorausgehen, vornehmen, vorziehen, weichen, weisen, werfen, widerspiegeln, widmen, zeichnen, zeigen, ziehen, zurückführen, zusammenführen, zuschreiben, übernehmen, überwinden
+
+Stylometric Features:
+NumSentences: 193
+AvgSentenceLength: 23.94
+TTR_Lemma_based: 0.451
+TTR_Token_Based: 0.277
+NumWords: 4620
+AvgWordLength: 6.38

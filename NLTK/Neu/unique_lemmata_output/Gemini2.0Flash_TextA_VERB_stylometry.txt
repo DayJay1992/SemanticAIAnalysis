@@ -1,0 +1,13 @@
+Model: Gemini2.0Flash
+Texttype: TextA
+Num_Lemmas: 438
+Unique Lemmas (169):
+abbrechen, abgrenzen, ablaufen, ableiten, analysieren, argumentieren, assoziieren, aufbauen, aufnehmen, auftreten, aufweisen, aufwirfen, aufzeigen, aufzuzeigen, ausdrücken, auseinandersetzen, auslassen, aussehen, auswerten, basieren, beantworten, beeinflussen, beginnen, beitragen, beleuchten, beobachten, bereiten, bergen, berücksichtigen, besagen, beschreiben, beschränken, beschäftigen, besetzen, bestehen, betrachten, betreffen, bevorzugen, bezeichnen, bieten, bilden, binden, bringen, darstellen, definieren, demonstrieren, determinieren, deuten, dienen, diskutieren, durchbrechen, durchbrochen, durchführen, einfügen, eingehen, einleiten, einnehmen, einsetzen, enthalten, entwickeln, erfahren, erfassen, erfordern, erfüllen, erklären, erlernen, ermöglichen, erweisen, erweitern, erwerben, erörtern, existieren, faszinieren, feststellen, finden, folgen, führen, geben, gehäufen, gehören, gelten, geschehen, gestalten, gewinnen, gliedern, handeln, herausarbeiten, herausforderen, herauszuarbeiten, herstellen, hervorgehen, hervorheben, hoffen, identifizieren, illustrieren, interagieren, interessieren, inwiefern, kategorisieren, kennzeichnen, kodieren, konzentrieren, korrelieren, lassen, leben, legen, leisten, lenken, liefern, liegen, lässt, manifestieren, nachgehen, nachzeichnen, nehmen, nähern, präferieren, prägen, präsentieren, realisieren, rücken, schaffen, scheinen, schlagen, schließen, schärfen, sehen, spielen, stehen, stellen, stoßen, stützen, tragen, treten, umfasst, unterliegen, unternehmen, unterscheiden, untersuchen, verankern, verbinden, verfeinern, vergleichen, verknüpfen, vermitteln, vernachlässigen, verorten, versprechen, verstehen, verweisen, verwenden, verändern, vorschlagen, vorstellen, wahrnehmen, weichen, weisen, werfen, widerspiegeln, widmen, wiederaufnehmen, zeichnen, zeigen, zielen, zusammenfassen, zusammenführen, zählen, überlieferen, übernehmen
+
+Stylometric Features:
+NumSentences: 250
+AvgSentenceLength: 24.39
+TTR_Lemma_based: 0.386
+TTR_Token_Based: 0.241
+NumWords: 6098
+AvgWordLength: 6.27

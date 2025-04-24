@@ -1,0 +1,10 @@
+Model: ChatGPT4o
+Texttype: TextA
+Unique Lemmas (109):
+abhängen, analysieren, anbieten, anordnen, anrufen, ansehen, argumentieren, auftreten, aufweisen, aufzeigen, ausgehen, basieren, beeinflussen, beherbergen, beitragen, beleuchten, beobachten, berücksichtigen, berühren, beschreiben, besetzen, bestimmen, betonen, betrachten, betreffen, bewerten, beziehen, bieten, bleiben, charakterisieren, darlegen, darstellen, diskutieren, einordnen, einsetzen, enthalten, erfassen, erfolgen, erforschen, erfüllen, erkennen, erklären, ermöglichen, erscheinen, fassen, festlegen, finden, folgen, führen, gelten, gestalten, heranziehen, herauszuarbeiten, herstellen, hinterfragen, hinweisen, illustrieren, interagieren, interpretieren, kennzeichnen, klären, lassen, lauten, leisten, liegen, lässt, markieren, motivieren, nachgegehen, nehmen, ordnen, organisieren, orientieren, plädieren, prägen, rechtfertigen, regeln, reichen, reisen, resultieren, rücken, signalisieren, skizzieren, spielen, stehen, stellen, stützen, transportieren, treten, unterliegen, unterscheiden, untersuchen, variieren, veranlassen, verstehen, verwenden, vorausgehen, vornehmen, vorziehen, weichen, weisen, werfen, widerspiegeln, widmen, zeichnen, zeigen, ziehen, zuschreiben, übernehmen
+
+Stylometric Features:
+NumSentences: 116
+AvgSentenceLength: 23.23
+TTR: 0.04
+AvgWordLength: 6.42

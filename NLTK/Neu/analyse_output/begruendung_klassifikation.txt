@@ -1,0 +1,18 @@
+📄 Klassifikationsanalyse – Begründung
+==================================================
+
+📝 Eingabetext: mein_testtext.txt
+
+🔍 Stilometrische Merkmale:
+- NumSentences: 9 (-168.38 gegenüber Ø 177.38)
+- NumWords: 254 (-3995.31 gegenüber Ø 4249.31)
+- AvgSentenceLength: 28.22 (+4.1 gegenüber Ø 24.12)
+- UniqueLemmas: 155 (-619.69 gegenüber Ø 774.69)
+- TTR_Lemma_based: 0.61 (+0.19 gegenüber Ø 0.42)
+- TTR_Token_based: 0.61 (+0.32 gegenüber Ø 0.29)
+- AvgWordLength: 5.5 (-0.72 gegenüber Ø 6.22)
+
+📊 Bewertungshinweise:
+→ Lange Satzstruktur – oft in KI-Texten.
+→ Geringe Wortvielfalt – typisch für KI.
+→ Stilometrische Merkmale im Rahmen menschlicher Varianz.

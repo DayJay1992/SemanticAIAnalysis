@@ -1,0 +1,13 @@
+Model: ChatGPT4o
+Texttype: TextA
+Num_Lemmas: 552
+Unique Lemmas (198):
+abhängig, abweichend, adverbial, adäquat, affektiv, aktuell, alltäglich, alternativ, altersbedingt, altersbezogen, altersgerecht, althochdeutsch, auffällig, ausgewählt, authentisch, bedeutend, bemerkenswert, besonderer, bess, bestehend, bestimmt, bevorzugt, deklarativ, deutsch, deutschsprachig, diachroner, differenziert, diskursbezogen, diskursiv, diskurspragmatisch, doppelt, eigenständig, eigentlich, einfeldrig, einzig, elliptisch, empirisch, eng, englischsprachig, entscheidend, entwickelnd, ergiebig, erheblich, etabliert, explizit, fachsprachlich, faszinierend, fest, finit, finite, formalisiert, früh, frühe, fundiert, funktional, funktional-pragmatisch, geeignet, gefühlsbezogen, gegenwärtig, generativ, geprägt, germanisch, geschrieben, gesprochen, gesprochensprachlich, gesprächsanalytisch, grammatisch, groß, grundlegend, gut, gängig, handlungsorientiert, heutig, historisch, hoch, hochalemannisch, häufig, individuell, informationsstrukturell, innerdeutsch, intensiv, interaktiv, interessant, interpretativ, invariant, jung, kanonisch, kausal, kindlich, klar, klassisch, kognitiv, kohärent, kohäsiv, kommunikativ, komplex, konditional, konditionale, kontextabhängig, kontextualisierend, kontrastiv, konventionell, korpuslinguistisch, korrekt, kreativ, kritisch, kritischen, lang, lateinisch, linguistisch, linker, logisch, lokal, mehrfach, mehrsprachig, meinungsbezogen, metakommunikativ, mittlerer, möglich, mündlich, neuere, offen, parataktisch, persönlich, potenziell, pragmatisch, praktisch, prominent, prosodisch, provokant, präziseres, quantitativ, regellos, regional, regulär, relevant, rhetorisch, satzgrammatisch, schriftlich, schulisch, semantisch, sogenannter, sorgfältig, sozial, spezifisch, spontan, sprachbewusst, sprachdidaktisch, sprachlich, sprachsensibl, sprachvergleichend, sprachwissenschaftlich, spät, standardsprachlich, stark, stilistisch, streng, strukturell, subjektiv, subordinierend, synchron, syntaktisch, systematisch, thematisch, theoretisch, tief, topikal, topologisch, traditionell, typisch, typologisch, umfangreich, unterschiedlich, unvorhersehbar, valid, variabl, variable, verbinitial, vereinfacht, verfestigt, vergleichbar, vergleichend, verschieden, verwandt, vielfältig, vorliegend, wandelnd, weit, weitgehend, wertvoll, wichtig, wirtschaftsbezogen, wirtschaftssprachlich, zahlreich, zeitlich, zentral, zugewandert, zunehmend
+
+Stylometric Features:
+NumSentences: 193
+AvgSentenceLength: 23.94
+TTR_Lemma_based: 0.359
+TTR_Token_Based: 0.277
+NumWords: 4620
+AvgWordLength: 6.38

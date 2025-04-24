@@ -1,0 +1,13 @@
+Model: Deepseek-V3
+Texttype: TextA
+Num_Lemmas: 141
+Unique Lemmas (80):
+abschließend, adäquat, andererseits, auffällig, ausgehend, beispielsweise, bevorzugen, bewusst, bislang, ca., dar, dennoch, deutlich, eindeutig, einerseits, empirisch, eng, funktional, genau, gerecht, gestern, gleichzeitig, grundsätzlich, hierbei, hinweg, häufig, insbesondere, intensiv, interaktional, intuitiv, inwiefern, kausal, keineswegs, konstant, kritisch, lediglich, legitim, lokal, maßgeblich, meist, methodisch, modal, möglicherweise, müde, nah, neu, pragmatisch, rein, relativ, scheinbar, schnell, selten, simultan, sogar, somit, standardsprachlich, stark, stattdessen, strategisch, synchron, systematisch, tatsächlich, temporal, theoretisch, traditionell, typischerweise, ungrammatisch, unterschiedlich, unverzichtbar, vergleichsweise, vielmehr, weithin, wesentlich, wider, wiederum, zudem, zufällig, zugrunde, zuletzt, zunehmend
+
+Stylometric Features:
+NumSentences: 223
+AvgSentenceLength: 25.7
+TTR_Lemma_based: 0.567
+TTR_Token_Based: 0.26
+NumWords: 5730
+AvgWordLength: 6.46

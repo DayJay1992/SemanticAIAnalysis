@@ -1,0 +1,13 @@
+Model: ChatGPTo1
+Texttype: TextA
+Num_Lemmas: 236
+Unique Lemmas (150):
+abhängig, abschließend, adressierend, allmählich, andererseits, angemessen, anschließend, auffällig, ausgehend, ausschließlich, basierend, beispielsweise, beständig, bewusst, bislang, bloß, d.h., dar, dennoch, detailliert, deutlich, differenzieren, diskurs-pragmatisch, doppelt, eher, einerseits, empirisch, eng, entscheidend, erfolgreich, erstens, erwartbar, etc., exakt, explizit, falsch, frei, funktional, gegenseitig, gegenwärtig, gemeinhin, genau, geradezu, gestern, gezielt, gleichzeitig, grundlegend, halt, hierarchisch, hierbei, hingegen, hinweg, historisch, häufig, insbesondere, invariant, inwiefern, inwieweit, jeher, jeweils, keineswegs, klug, kontextuell, kontrastiv, kontrovers, kritisch, lediglich, leer, linear, linguistisch, links, medial, mehrschichtig, methodisch, mindestens, mitunter, möglicherweise, mündlich, nachhaltig, nahezu, neu, normalerweise, notwendig, nutzbar, primär, präzise, punktuell, qualitativ, quantitativ, rasch, realistischerweise, regellos, rein, relativ, scheinbar, schließlich, schnell, schwedisch, sicht-bar, sichtbar, situativ, sodann, sogar, somit, speziell, stabil, stark, stets, strikt, syntaktisch, systematisch, tatsächlich, teils, traditionell, typischerweise, typologisch, umgangssprachlich, ungewohnt, ungrammatisch, unklar, unmittelbar, unterschiedlich, unverrückbar, unzureichend, variabel, vergleichbar, vergleichsweise, vermeintlich, verstärkt, vertieft, vielmehr, voll, voneinander, vulnerabel, weitaus, weitgehend, wesentlich, wider, wiederum, womöglich, wählbar, zentral, zudem, zugrunde, zuletzt, zunehmend, zweitens, überraschend, überwiegend, ≥
+
+Stylometric Features:
+NumSentences: 232
+AvgSentenceLength: 29.69
+TTR_Lemma_based: 0.636
+TTR_Token_Based: 0.316
+NumWords: 6889
+AvgWordLength: 6.46

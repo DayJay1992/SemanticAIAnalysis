@@ -1,0 +1,13 @@
+Model: Gemini2.0Flash
+Texttype: TextB
+Num_Lemmas: 200
+Unique Lemmas (71):
+abschließend, adversativ, adäquat, anschließend, aufbauend, ausführlich, ausgehend, beispielsweise, bevorzugen, dar, deskriptiv, detailliert, drittens, eingangs, eng, ergänzend, erstens, explizit, gerecht, gleichzeitig, gänzlich, hierbei, hiervon, hierzu, häufig, insbesondere, intensiv, inwieweit, jeher, kausal, komplexes, konsekutiv, kritisch, lediglich, lenerz, maßgeblich, mindestens, möglicherweise, möglichst, nah, notorisch, primär, präsent, qualitativ, quantitativ, reich, relativ, relevant, scheinbar, signifikant, somit, speziell, strukturell, synchron, systematisch, tatsächlich, tendenziell, traditionell, umfassend, unbestritten, variabl, vergleichsweise, vielschichtig, vorrangig, weiterhin, wobei, z.b., zugrunde, zunehmend, zusammenfassend, zweitens
+
+Stylometric Features:
+NumSentences: 390
+AvgSentenceLength: 21.47
+TTR_Lemma_based: 0.355
+TTR_Token_Based: 0.214
+NumWords: 8375
+AvgWordLength: 6.09

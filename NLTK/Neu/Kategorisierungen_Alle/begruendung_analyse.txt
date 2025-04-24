@@ -1,0 +1,39 @@
+📊 Analyse der semantischen Adjektiv-Kategorien
+============================================================
+
+Verwendete Adjektive im Text: 32
+Verglichene Kategorien: 100
+
+🤖 KI-Score: 142.54
+✅ Mensch-Score: 181.08
+
+📈 KI-Wahrscheinlichkeit: 44.05%
+📉 Mensch-Wahrscheinlichkeit: 55.95%
+
+Top auffällige Kategorien mit Klassifikation:
+
+- analytisch: 1 (⌀ 31.62) ↓ -31 (-96.8%) → ✅ eher menschlich
+- lexikalisch: 2 (⌀ 52.38) ↓ -50 (-96.2%) → ✅ eher menschlich
+- ansatz: 1 (⌀ 25.69) ↓ -25 (-96.1%) → 🤖 eher KI-typisch
+- grammatik: 1 (⌀ 24.85) ↓ -24 (-96.0%) → 🤖 eher KI-typisch
+- deutsche: 1 (⌀ 17.85) ↓ -17 (-94.4%) → ✅ eher menschlich
+- verschieden: 1 (⌀ 16.15) ↓ -15 (-93.8%) → 🤖 eher KI-typisch
+- komponente: 1 (⌀ 13.92) ↓ -13 (-92.8%) → ✅ eher menschlich
+- richtung: 1 (⌀ 13.0) ↓ -12 (-92.3%) → 🤖 eher KI-typisch
+- aufsatz: 1 (⌀ 12.69) ↓ -12 (-92.1%) → ✅ eher menschlich
+- einerseits: 1 (⌀ 12.23) ↓ -11 (-91.8%) → ✅ eher menschlich
+- syntax: 1 (⌀ 11.85) ↓ -11 (-91.6%) → ✅ eher menschlich
+- erforschen: 1 (⌀ 11.46) ↓ -10 (-91.3%) → ✅ eher menschlich
+- zentral: 1 (⌀ 10.85) ↓ -10 (-90.8%) → ✅ eher menschlich
+- konsistenz: 2 (⌀ 21.62) ↓ -20 (-90.7%) → 🤖 eher KI-typisch
+- vorfeld: 1 (⌀ 9.38) ↓ -8 (-89.3%) → 🤖 eher KI-typisch
+- rolle: 1 (⌀ 9.15) ↓ -8 (-89.1%) → ✅ eher menschlich
+- adaptieren: 1 (⌀ 8.69) ↓ -8 (-88.5%) → 🤖 eher KI-typisch
+- bereich: 1 (⌀ 8.62) ↓ -8 (-88.4%) → 🤖 eher KI-typisch
+- beitrag: 1 (⌀ 8.38) ↓ -7 (-88.1%) → 🤖 eher KI-typisch
+- element: 1 (⌀ 8.15) ↓ -7 (-87.7%) → 🤖 eher KI-typisch
+- linker: 1 (⌀ 6.0) ↓ -5 (-83.3%) → 🤖 eher KI-typisch
+- auftreten: 1 (⌀ 5.0) ↓ -4 (-80.0%) → 🤖 eher KI-typisch
+- beitragen: 1 (⌀ 3.77) ↓ -3 (-73.5%) → ✅ eher menschlich
+- spielen: 1 (⌀ 3.69) ↓ -3 (-72.9%) → ✅ eher menschlich
+- thematik: 1 (⌀ 3.62) ↓ -3 (-72.3%) → ✅ eher menschlich

@@ -1,0 +1,13 @@
+Model: ChatGPTo1
+Texttype: TextB
+Num_Lemmas: 298
+Unique Lemmas (150):
+2014).methodisch, 8–10, abschließend, adäquat, andererseits, aneinander, angemessen, anknüpfend, anschließend, aufbauend, ausführlich, ausgehend, ausschließlich, beispielsweise, beobachtbar, bevorzugen, bildungspolitisch, biologisch, bislang, bitte, ca., dar, daraufhin, dennoch, deutlich, dezidiert, diachrone, diachronen, diskurspragmatisch, diskursstrategisch, drittens, eher, einerseits, empirisch, ergänzend, erstens, erwiesenermaßen, exakt, experimentell, explizit, fein, flexibel, folgendermaßen, formal, fortgeschritten, frei, funktional, ganzheitlich, gebräuchlich, geeignet, gegeneinander, gemeinhin, genau, generativ, gering, gleichermaßen, gleichwohl, gleichzeitig, grammatisch, greifbar, heraus, herausfordernd, hierbei, hinweg, hochgradig, häufig, informierbar, innen, insbesondere, insgesamt, insofern, interaktional, keineswegs, konstant, lediglich, lenerz, letztlich, longitudinal, manuell, maßgeblich, meist, methodisch, miteinander, mittlerweile, monatlich, möglichst, nachhaltig, namentlich, neu, notwendig, nunmehr, nötig, obligatorisch, pointiert, pragmatisch, prosodisch, prototypisch, provokativ, präzis, präzise, quantitativ, relevant, russisch, schließlich, schnell, selten, sichtbar, signifikant, sinnvoll, somit, sprachübergreifend, streng, strikt, strukturell, sukzessiv, synchron, syntaktisch, systematisch, tatsächlich, teilweise, theoretisch, traditionell, typisch, umfassend, unabhängig, unterschiedlich, variationstheoretisch, vereinzelt, vergleichend, vergleichsweise, vermeintlich, verstärkt, voran, vornehmlich, vorrangig, vorwiegend, weiterhin, weitgehend, wesentlich, wider, wiederholt, zahlreich, zudem, zufällig, zugrunde, zumeist, zunehmend, zweitens, ökonomisch, übertragbar
+
+Stylometric Features:
+NumSentences: 370
+AvgSentenceLength: 25.72
+TTR_Lemma_based: 0.503
+TTR_Token_Based: 0.264
+NumWords: 9516
+AvgWordLength: 6.14

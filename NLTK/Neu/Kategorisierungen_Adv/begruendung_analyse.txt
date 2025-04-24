@@ -1,0 +1,20 @@
+📊 Analyse der semantischen Adjektiv-Kategorien
+============================================================
+
+Verwendete Adjektive im Text: 7
+Verglichene Kategorien: 100
+
+🤖 KI-Score: 3.31
+✅ Mensch-Score: 12.54
+
+📈 KI-Wahrscheinlichkeit: 20.87%
+📉 Mensch-Wahrscheinlichkeit: 79.13%
+
+Top auffällige Kategorien mit Klassifikation:
+
+- nah: 1 (⌀ 0.23) ↑ +1 (+333.3%) → ✅ eher menschlich
+- rhythmisch: 1 (⌀ 0.31) ↑ +1 (+225.0%) → 🤖 eher KI-typisch
+- weiterhin: 1 (⌀ 0.38) ↑ +1 (+160.0%) → ✅ eher menschlich
+- einerseits: 1 (⌀ 12.15) ↓ -11 (-91.8%) → ✅ eher menschlich
+- häufig: 2 (⌀ 3.85) ↓ -2 (-48.0%) → 🤖 eher KI-typisch
+- semantisch: 1 (⌀ 1.77) ↓ -1 (-43.5%) → 🤖 eher KI-typisch
