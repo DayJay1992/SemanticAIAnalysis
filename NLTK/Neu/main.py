@@ -15,7 +15,7 @@ to_analyze = ["NOUN", "ADJ", "ADV", "VERB"]
 nlp = spacy.load("de_core_news_lg")
 
 # Lade JSON-Datei
-with open("../../Wortfeldanalyse/texte.json", "r", encoding="utf-8") as file:
+with open("./corpus/texte.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Bereinige Text
@@ -84,7 +84,7 @@ def get_stylometric_features(text, model, text_type, lemma_filter_func, label_su
     }
 
 # n-Gramme extrahieren
-def get_top_ngrams(text, n=2, top_k=30):
+def get_top_ngrams(text, n=2, top_k=50):
     tokens = [token.text.lower() for token in nlp(text) if token.is_alpha]
     ngram_counts = Counter(ngrams(tokens, n))
     return ngram_counts.most_common(top_k)
@@ -143,7 +143,7 @@ def run_analysis(wortarten, output_filename):
     human_lemmas = get_filtered_lemmas_dynamic(human_text_combined)
     human_vector = get_average_vector(human_lemmas, "HumanText", "Original")
     human_features = get_stylometric_features(human_text_combined, "HumanText", "Original", get_filtered_lemmas_dynamic, label_suffix)
-    lemma_freq = Counter(human_lemmas).most_common(30)
+    lemma_freq = Counter(human_lemmas).most_common(100)
     bigrams = get_top_ngrams(human_text_combined, n=2)
     trigrams = get_top_ngrams(human_text_combined, n=3)
     quadrigrams = get_top_ngrams(human_text_combined, n=4)

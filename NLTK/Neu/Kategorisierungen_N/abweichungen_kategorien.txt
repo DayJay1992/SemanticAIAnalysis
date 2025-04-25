@@ -1,245 +1,245 @@
 Top 30 Überrepräsentationen:
 
-HumanText – Original – ansatz
-  ➤ Abweichung absolut: +27.31
-  ➤ Abweichung prozentual: +106.29%
-
-Gemini2.0Flash – TextB – arbeit
-  ➤ Abweichung absolut: +25.85
-  ➤ Abweichung prozentual: +231.72%
+ChatGPTo1 – TextB – abschnitt
+  ➤ Abweichung absolut: +51.46
+  ➤ Abweichung prozentual: +488.32%
 
 Geminiflash2.0thinking – TextB – kapitel
-  ➤ Abweichung absolut: +24.00
-  ➤ Abweichung prozentual: +480.00%
+  ➤ Abweichung absolut: +39.46
+  ➤ Abweichung prozentual: +374.45%
+
+Gemini2.0Flash – TextB – arbeit
+  ➤ Abweichung absolut: +37.15
+  ➤ Abweichung prozentual: +197.14%
 
 HumanText – Original – vorfeld
-  ➤ Abweichung absolut: +20.62
-  ➤ Abweichung prozentual: +219.67%
+  ➤ Abweichung absolut: +27.38
+  ➤ Abweichung prozentual: +147.11%
 
-Gemini2.0Flash – TextB – ansatz
-  ➤ Abweichung absolut: +18.31
-  ➤ Abweichung prozentual: +71.26%
+HumanText – Original – ansatz
+  ➤ Abweichung absolut: +26.92
+  ➤ Abweichung prozentual: +76.75%
 
-HumanText – Original – abschnitt
-  ➤ Abweichung absolut: +16.77
-  ➤ Abweichung prozentual: +320.59%
+Geminiflash2.0thinking – TextB – position
+  ➤ Abweichung absolut: +23.54
+  ➤ Abweichung prozentual: +68.30%
 
-HumanText – Original – abhängigkeit
-  ➤ Abweichung absolut: +15.92
-  ➤ Abweichung prozentual: +121.76%
+ChatGPTo1 – TextB – beitrag
+  ➤ Abweichung absolut: +23.38
+  ➤ Abweichung prozentual: +132.75%
 
-HumanText – Original – beispiel
-  ➤ Abweichung absolut: +14.62
-  ➤ Abweichung prozentual: +271.43%
-
-Geminiflash2.0thinking – TextB – aufarbeitung
-  ➤ Abweichung absolut: +14.62
-  ➤ Abweichung prozentual: +41.30%
-
-HumanText – Original – verb
-  ➤ Abweichung absolut: +14.46
-  ➤ Abweichung prozentual: +169.37%
-
-Gemini2.0Flash – TextA – ansatz
-  ➤ Abweichung absolut: +14.31
-  ➤ Abweichung prozentual: +55.69%
-
-HumanText – Original – grammatik
-  ➤ Abweichung absolut: +14.15
-  ➤ Abweichung prozentual: +56.97%
-
-Deepseek-R1 – TextA – interaktion
-  ➤ Abweichung absolut: +12.38
-  ➤ Abweichung prozentual: +74.54%
-
-Geminiflash2.0thinking – TextB – analyse
-  ➤ Abweichung absolut: +12.15
-  ➤ Abweichung prozentual: +64.49%
-
-ChatGPTo1 – TextB – abschnitt
-  ➤ Abweichung absolut: +11.77
-  ➤ Abweichung prozentual: +225.00%
-
-HumanText – Original – definition
-  ➤ Abweichung absolut: +11.77
-  ➤ Abweichung prozentual: +188.89%
-
-Geminiflash2.0thinking – TextA – aufarbeitung
-  ➤ Abweichung absolut: +11.62
-  ➤ Abweichung prozentual: +32.83%
-
-HumanText – Original – fall
-  ➤ Abweichung absolut: +11.46
-  ➤ Abweichung prozentual: +745.00%
-
-Gemini2.0Flash – TextB – komponente
-  ➤ Abweichung absolut: +11.08
-  ➤ Abweichung prozentual: +79.56%
-
-ChatGPT4o – TextB – dynamik
-  ➤ Abweichung absolut: +10.69
-  ➤ Abweichung prozentual: +65.57%
-
-HumanText – Original – argument
-  ➤ Abweichung absolut: +10.54
-  ➤ Abweichung prozentual: +236.21%
-
-Geminiflash2.0thinking – TextA – phänomen
-  ➤ Abweichung absolut: +10.23
-  ➤ Abweichung prozentual: +74.30%
-
-Gemini2.0Flash – TextA – grammatik
-  ➤ Abweichung absolut: +10.15
-  ➤ Abweichung prozentual: +40.87%
+Gemini2.0Flash – TextB – kapitel
+  ➤ Abweichung absolut: +21.46
+  ➤ Abweichung prozentual: +203.65%
 
 Gemini2.0Flash – TextB – analyse
-  ➤ Abweichung absolut: +10.15
-  ➤ Abweichung prozentual: +53.88%
+  ➤ Abweichung absolut: +21.31
+  ➤ Abweichung prozentual: +67.23%
 
-HumanText – Original – richtung
-  ➤ Abweichung absolut: +10.08
-  ➤ Abweichung prozentual: +72.38%
+Geminiflash2.0thinking – TextB – arbeit
+  ➤ Abweichung absolut: +21.15
+  ➤ Abweichung prozentual: +112.24%
 
-HumanText – Original – konzept
-  ➤ Abweichung absolut: +9.92
-  ➤ Abweichung prozentual: +140.22%
+HumanText – Original – position
+  ➤ Abweichung absolut: +19.54
+  ➤ Abweichung prozentual: +56.70%
 
-ChatGPT4o – TextB – aufarbeitung
-  ➤ Abweichung absolut: +9.62
-  ➤ Abweichung prozentual: +27.17%
+Geminiflash2.0thinking – TextB – analyse
+  ➤ Abweichung absolut: +19.31
+  ➤ Abweichung prozentual: +60.92%
 
-Gemini2.0Flash – TextA – arbeit
-  ➤ Abweichung absolut: +8.85
-  ➤ Abweichung prozentual: +79.31%
+Geminiflash2.0thinking – TextB – deutsche
+  ➤ Abweichung absolut: +18.92
+  ➤ Abweichung prozentual: +47.22%
 
-HumanText – Original – datum
-  ➤ Abweichung absolut: +8.77
-  ➤ Abweichung prozentual: +271.43%
+ChatGPT4o – TextB – dynamik
+  ➤ Abweichung absolut: +18.31
+  ➤ Abweichung prozentual: +63.81%
 
-HumanText – Original – unterschied
-  ➤ Abweichung absolut: +8.31
-  ➤ Abweichung prozentual: +490.91%
+Gemini2.0Flash – TextA – ansatz
+  ➤ Abweichung absolut: +17.92
+  ➤ Abweichung prozentual: +51.10%
+
+HumanText – Original – aussprache
+  ➤ Abweichung absolut: +17.69
+  ➤ Abweichung prozentual: +62.50%
+
+Gemini2.0Flash – TextB – ansatz
+  ➤ Abweichung absolut: +16.92
+  ➤ Abweichung prozentual: +48.25%
+
+HumanText – Original – altersunterschied
+  ➤ Abweichung absolut: +16.85
+  ➤ Abweichung prozentual: +326.87%
+
+Gemini2.0Flash – TextB – ermittlung
+  ➤ Abweichung absolut: +16.38
+  ➤ Abweichung prozentual: +79.48%
+
+Gemini2.0Flash – TextB – komponente
+  ➤ Abweichung absolut: +16.00
+  ➤ Abweichung prozentual: +72.73%
+
+ChatGPT4o – TextB – ziel
+  ➤ Abweichung absolut: +15.85
+  ➤ Abweichung prozentual: +87.29%
+
+Gemini2.0Flash – TextA – aussprache
+  ➤ Abweichung absolut: +15.69
+  ➤ Abweichung prozentual: +55.43%
+
+HumanText – Original – abhängigkeit
+  ➤ Abweichung absolut: +15.62
+  ➤ Abweichung prozentual: +57.02%
+
+Deepseek-R1 – TextA – interaktion
+  ➤ Abweichung absolut: +15.31
+  ➤ Abweichung prozentual: +64.61%
+
+Deepseek-R1 – TextA – syntax
+  ➤ Abweichung absolut: +15.31
+  ➤ Abweichung prozentual: +73.98%
+
+ChatGPTo1 – TextB – ergebnis
+  ➤ Abweichung absolut: +15.15
+  ➤ Abweichung prozentual: +127.92%
+
+HumanText – Original – begründung
+  ➤ Abweichung absolut: +15.08
+  ➤ Abweichung prozentual: +126.45%
+
+Deepseek-R1 – TextB – artikel
+  ➤ Abweichung absolut: +14.62
+  ➤ Abweichung prozentual: +333.33%
+
+Geminiflash2.0thinking – TextA – phänomen
+  ➤ Abweichung absolut: +14.54
+  ➤ Abweichung prozentual: +74.70%
+
+HumanText – Original – abschnitt
+  ➤ Abweichung absolut: +14.46
+  ➤ Abweichung prozentual: +137.23%
 
 
 Top 30 Unterrepräsentationen:
 
-Deepseek-R1 – TextA – aufarbeitung
-  ➤ Abweichung absolut: -15.38
-  ➤ Abweichung prozentual: -43.48%
+ChatGPT4o – TextA – analyse
+  ➤ Abweichung absolut: -18.69
+  ➤ Abweichung prozentual: -58.98%
 
-HumanText – Original – aufsatz
-  ➤ Abweichung absolut: -11.69
-  ➤ Abweichung prozentual: -92.12%
-
-ChatGPTo1 – TextA – analyse
-  ➤ Abweichung absolut: -10.85
-  ➤ Abweichung prozentual: -57.55%
-
-Deepseek-R1 – TextA – ansatz
-  ➤ Abweichung absolut: -10.69
-  ➤ Abweichung prozentual: -41.62%
+ChatGPT4o – TextA – position
+  ➤ Abweichung absolut: -16.46
+  ➤ Abweichung prozentual: -47.77%
 
 ChatGPTo1 – TextA – ansatz
-  ➤ Abweichung absolut: -10.69
-  ➤ Abweichung prozentual: -41.62%
+  ➤ Abweichung absolut: -16.08
+  ➤ Abweichung prozentual: -45.83%
 
-ChatGPT4o – TextA – ansatz
-  ➤ Abweichung absolut: -10.69
-  ➤ Abweichung prozentual: -41.62%
+ChatGPT4o – TextA – terminologie
+  ➤ Abweichung absolut: -15.92
+  ➤ Abweichung prozentual: -57.02%
 
-Deepseek-V3 – TextA – aufarbeitung
-  ➤ Abweichung absolut: -10.38
-  ➤ Abweichung prozentual: -29.35%
+Gemini2.0Flash – TextA – deutsche
+  ➤ Abweichung absolut: -15.08
+  ➤ Abweichung prozentual: -37.62%
 
-Deepseek-V3 – TextA – arbeit
-  ➤ Abweichung absolut: -10.15
-  ➤ Abweichung prozentual: -91.03%
+ChatGPTo1 – TextA – analyse
+  ➤ Abweichung absolut: -14.69
+  ➤ Abweichung prozentual: -46.36%
 
-ChatGPT4o – TextA – analyse
-  ➤ Abweichung absolut: -9.85
-  ➤ Abweichung prozentual: -52.24%
+Deepseek-R1 – TextA – ansatz
+  ➤ Abweichung absolut: -14.08
+  ➤ Abweichung prozentual: -40.13%
 
-Deepseek-V3 – TextB – ansatz
-  ➤ Abweichung absolut: -9.69
-  ➤ Abweichung prozentual: -37.72%
+HumanText – Original – aufsatz
+  ➤ Abweichung absolut: -13.54
+  ➤ Abweichung prozentual: -62.86%
 
-Deepseek-R1 – TextB – ansatz
-  ➤ Abweichung absolut: -8.69
-  ➤ Abweichung prozentual: -33.83%
+ChatGPT4o – TextB – position
+  ➤ Abweichung absolut: -13.46
+  ➤ Abweichung prozentual: -39.06%
 
 Deepseek-V3 – TextA – ansatz
-  ➤ Abweichung absolut: -8.69
-  ➤ Abweichung prozentual: -33.83%
+  ➤ Abweichung absolut: -13.08
+  ➤ Abweichung prozentual: -37.28%
 
-ChatGPTo1 – TextA – aufarbeitung
-  ➤ Abweichung absolut: -8.38
-  ➤ Abweichung prozentual: -23.70%
-
-ChatGPT4o – TextA – aufarbeitung
-  ➤ Abweichung absolut: -8.38
-  ➤ Abweichung prozentual: -23.70%
-
-ChatGPT4o – TextA – arbeit
-  ➤ Abweichung absolut: -8.15
-  ➤ Abweichung prozentual: -73.10%
-
-ChatGPTo1 – TextB – abhängigkeit
-  ➤ Abweichung absolut: -8.08
-  ➤ Abweichung prozentual: -61.76%
-
-Deepseek-R1 – TextB – grammatik
-  ➤ Abweichung absolut: -7.85
-  ➤ Abweichung prozentual: -31.58%
-
-HumanText – Original – phänomen
-  ➤ Abweichung absolut: -7.77
-  ➤ Abweichung prozentual: -56.42%
-
-ChatGPTo1 – TextB – ansatz
-  ➤ Abweichung absolut: -7.69
-  ➤ Abweichung prozentual: -29.94%
-
-Deepseek-R1 – TextB – frage
-  ➤ Abweichung absolut: -7.62
-  ➤ Abweichung prozentual: -60.37%
-
-HumanText – Original – forscher
-  ➤ Abweichung absolut: -7.38
-  ➤ Abweichung prozentual: -88.07%
-
-ChatGPTo1 – TextA – arbeit
-  ➤ Abweichung absolut: -7.15
-  ➤ Abweichung prozentual: -64.14%
+ChatGPT4o – TextA – ansatz
+  ➤ Abweichung absolut: -13.08
+  ➤ Abweichung prozentual: -37.28%
 
 ChatGPTo1 – TextB – arbeit
-  ➤ Abweichung absolut: -7.15
-  ➤ Abweichung prozentual: -64.14%
+  ➤ Abweichung absolut: -12.85
+  ➤ Abweichung prozentual: -68.16%
 
-ChatGPT4o – TextA – erkenntnis
-  ➤ Abweichung absolut: -7.00
-  ➤ Abweichung prozentual: -36.84%
+Deepseek-V3 – TextA – arbeit
+  ➤ Abweichung absolut: -12.85
+  ➤ Abweichung prozentual: -68.16%
 
-Deepseek-R1 – TextB – erkenntnis
-  ➤ Abweichung absolut: -7.00
-  ➤ Abweichung prozentual: -36.84%
+ChatGPT4o – TextA – ermittlung
+  ➤ Abweichung absolut: -12.62
+  ➤ Abweichung prozentual: -61.19%
 
-Deepseek-V3 – TextB – richtung
-  ➤ Abweichung absolut: -6.92
-  ➤ Abweichung prozentual: -49.72%
+HumanText – Original – phänomen
+  ➤ Abweichung absolut: -12.46
+  ➤ Abweichung prozentual: -64.03%
 
-Gemini2.0Flash – TextB – grammatik
-  ➤ Abweichung absolut: -6.85
-  ➤ Abweichung prozentual: -27.55%
+ChatGPTo1 – TextB – aussprache
+  ➤ Abweichung absolut: -12.31
+  ➤ Abweichung prozentual: -43.48%
 
-Geminiflash2.0thinking – TextB – grammatik
-  ➤ Abweichung absolut: -6.85
-  ➤ Abweichung prozentual: -27.55%
+ChatGPTo1 – TextA – aussprache
+  ➤ Abweichung absolut: -12.31
+  ➤ Abweichung prozentual: -43.48%
 
-ChatGPT4o – TextA – beitrag
-  ➤ Abweichung absolut: -6.38
-  ➤ Abweichung prozentual: -76.15%
+Gemini2.0Flash – TextA – terminologie
+  ➤ Abweichung absolut: -11.92
+  ➤ Abweichung prozentual: -42.70%
+
+ChatGPT4o – TextA – arbeit
+  ➤ Abweichung absolut: -11.85
+  ➤ Abweichung prozentual: -62.86%
 
 Gemini2.0Flash – TextB – dynamik
-  ➤ Abweichung absolut: -6.31
-  ➤ Abweichung prozentual: -38.68%
+  ➤ Abweichung absolut: -11.69
+  ➤ Abweichung prozentual: -40.75%
+
+ChatGPT4o – TextA – beitrag
+  ➤ Abweichung absolut: -11.62
+  ➤ Abweichung prozentual: -65.94%
+
+Deepseek-V3 – TextB – position
+  ➤ Abweichung absolut: -11.46
+  ➤ Abweichung prozentual: -33.26%
+
+ChatGPTo1 – TextB – abhängigkeit
+  ➤ Abweichung absolut: -11.38
+  ➤ Abweichung prozentual: -41.57%
+
+Deepseek-R1 – TextB – aussprache
+  ➤ Abweichung absolut: -11.31
+  ➤ Abweichung prozentual: -39.95%
+
+ChatGPTo1 – TextA – komponente
+  ➤ Abweichung absolut: -11.00
+  ➤ Abweichung prozentual: -50.00%
+
+HumanText – Original – terminologie
+  ➤ Abweichung absolut: -10.92
+  ➤ Abweichung prozentual: -39.12%
+
+ChatGPT4o – TextA – ergebnis
+  ➤ Abweichung absolut: -10.85
+  ➤ Abweichung prozentual: -91.56%
+
+Deepseek-V3 – TextA – analyse
+  ➤ Abweichung absolut: -10.69
+  ➤ Abweichung prozentual: -33.74%
+
+Gemini2.0Flash – TextA – abschnitt
+  ➤ Abweichung absolut: -10.54
+  ➤ Abweichung prozentual: -100.00%
+
+Geminiflash2.0thinking – TextA – kapitel
+  ➤ Abweichung absolut: -10.54
+  ➤ Abweichung prozentual: -100.00%
 

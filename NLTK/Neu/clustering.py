@@ -142,7 +142,7 @@ for kat in CONTENT_POS:
         print("Plot erstellt!")
 
     # Load JSON-File
-    with open("/home/dennis/Nextcloud/Documents/Linguistik/ForschungKI/Wortfeldanalyse/texte.json", "r", encoding="utf-8") as f:
+    with open("./corpus/texte.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     # Step 1: Collect global lemmas for each model + human

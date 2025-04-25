@@ -1,245 +1,245 @@
 Top 30 Überrepräsentationen:
 
 HumanText – Original – stehen
-  ➤ Abweichung absolut: +17.31
-  ➤ Abweichung prozentual: +117.80%
+  ➤ Abweichung absolut: +30.46
+  ➤ Abweichung prozentual: +119.28%
 
 HumanText – Original – akzeptieren
-  ➤ Abweichung absolut: +16.38
-  ➤ Abweichung prozentual: +247.67%
+  ➤ Abweichung absolut: +27.85
+  ➤ Abweichung prozentual: +249.66%
 
-HumanText – Original – diskutieren
-  ➤ Abweichung absolut: +10.46
-  ➤ Abweichung prozentual: +122.52%
+ChatGPTo1 – TextB – adaptieren
+  ➤ Abweichung absolut: +21.00
+  ➤ Abweichung prozentual: +105.00%
 
-ChatGPT4o – TextB – auswerten
-  ➤ Abweichung absolut: +10.46
-  ➤ Abweichung prozentual: +99.27%
+ChatGPTo1 – TextB – aufzuzeigen
+  ➤ Abweichung absolut: +18.54
+  ➤ Abweichung prozentual: +137.71%
 
-ChatGPTo1 – TextB – zusammenfassen
+Deepseek-R1 – TextB – folgen
+  ➤ Abweichung absolut: +16.46
+  ➤ Abweichung prozentual: +172.58%
+
+Deepseek-R1 – TextB – gliedern
+  ➤ Abweichung absolut: +16.46
+  ➤ Abweichung prozentual: +297.22%
+
+HumanText – Original – adaptieren
+  ➤ Abweichung absolut: +15.00
+  ➤ Abweichung prozentual: +75.00%
+
+Gemini2.0Flash – TextB – widmen
+  ➤ Abweichung absolut: +14.46
+  ➤ Abweichung prozentual: +151.61%
+
+Gemini2.0Flash – TextB – geben
+  ➤ Abweichung absolut: +14.23
+  ➤ Abweichung prozentual: +210.23%
+
+ChatGPTo1 – TextB – präsentieren
+  ➤ Abweichung absolut: +13.00
+  ➤ Abweichung prozentual: +81.25%
+
+Gemini2.0Flash – TextB – durchführen
+  ➤ Abweichung absolut: +12.69
+  ➤ Abweichung prozentual: +201.22%
+
+Geminiflash2.0thinking – TextB – benennen
+  ➤ Abweichung absolut: +12.69
+  ➤ Abweichung prozentual: +123.13%
+
+Gemini2.0Flash – TextB – analysiert
+  ➤ Abweichung absolut: +12.31
+  ➤ Abweichung prozentual: +105.26%
+
+Deepseek-V3 – TextB – stützen
+  ➤ Abweichung absolut: +12.08
+  ➤ Abweichung prozentual: +203.90%
+
+Deepseek-R1 – TextB – adaptieren
+  ➤ Abweichung absolut: +12.00
+  ➤ Abweichung prozentual: +60.00%
+
+Deepseek-R1 – TextB – diskutieren
+  ➤ Abweichung absolut: +11.92
+  ➤ Abweichung prozentual: +74.16%
+
+HumanText – Original – lassen
+  ➤ Abweichung absolut: +11.62
+  ➤ Abweichung prozentual: +181.93%
+
+Geminiflash2.0thinking – TextA – widmen
+  ➤ Abweichung absolut: +11.46
+  ➤ Abweichung prozentual: +120.16%
+
+Deepseek-V3 – TextB – diskutieren
+  ➤ Abweichung absolut: +10.92
+  ➤ Abweichung prozentual: +67.94%
+
+HumanText – Original – bestehen
+  ➤ Abweichung absolut: +10.77
+  ➤ Abweichung prozentual: +333.33%
+
+ChatGPT4o – TextB – analysiert
+  ➤ Abweichung absolut: +10.31
+  ➤ Abweichung prozentual: +88.16%
+
+Deepseek-R1 – TextB – ergänzend
+  ➤ Abweichung absolut: +10.31
+  ➤ Abweichung prozentual: +609.09%
+
+Deepseek-R1 – TextB – bleiben
+  ➤ Abweichung absolut: +10.08
+  ➤ Abweichung prozentual: +204.69%
+
+Deepseek-R1 – TextB – stützen
+  ➤ Abweichung absolut: +10.08
+  ➤ Abweichung prozentual: +170.13%
+
+ChatGPTo1 – TextB – benennen
+  ➤ Abweichung absolut: +9.69
+  ➤ Abweichung prozentual: +94.03%
+
+HumanText – Original – finden
+  ➤ Abweichung absolut: +9.54
+  ➤ Abweichung prozentual: +275.56%
+
+Geminiflash2.0thinking – TextB – widmen
+  ➤ Abweichung absolut: +9.46
+  ➤ Abweichung prozentual: +99.19%
+
+Geminiflash2.0thinking – TextB – geben
   ➤ Abweichung absolut: +9.23
   ➤ Abweichung prozentual: +136.36%
 
-Deepseek-V3 – TextB – stützen
-  ➤ Abweichung absolut: +8.69
-  ➤ Abweichung prozentual: +262.79%
+ChatGPTo1 – TextB – aufzeichnen
+  ➤ Abweichung absolut: +9.23
+  ➤ Abweichung prozentual: +118.81%
 
-Deepseek-R1 – TextB – adaptieren
-  ➤ Abweichung absolut: +8.54
-  ➤ Abweichung prozentual: +68.52%
-
-HumanText – Original – adaptieren
-  ➤ Abweichung absolut: +8.54
-  ➤ Abweichung prozentual: +68.52%
-
-Gemini2.0Flash – TextB – geben
-  ➤ Abweichung absolut: +8.15
-  ➤ Abweichung prozentual: +168.25%
-
-Geminiflash2.0thinking – TextB – widmen
-  ➤ Abweichung absolut: +8.08
-  ➤ Abweichung prozentual: +164.06%
-
-Geminiflash2.0thinking – TextA – widmen
-  ➤ Abweichung absolut: +8.08
-  ➤ Abweichung prozentual: +164.06%
-
-HumanText – Original – lassen
-  ➤ Abweichung absolut: +8.00
-  ➤ Abweichung prozentual: +266.67%
-
-Deepseek-R1 – TextB – gliedern
-  ➤ Abweichung absolut: +7.92
-  ➤ Abweichung prozentual: +257.50%
-
-Deepseek-V3 – TextB – diskutieren
-  ➤ Abweichung absolut: +7.46
-  ➤ Abweichung prozentual: +87.39%
-
-Gemini2.0Flash – TextB – durchführen
-  ➤ Abweichung absolut: +7.15
-  ➤ Abweichung prozentual: +186.00%
-
-HumanText – Original – einnehmen
-  ➤ Abweichung absolut: +6.92
-  ➤ Abweichung prozentual: +169.81%
-
-ChatGPTo1 – TextB – herausstellen
-  ➤ Abweichung absolut: +6.92
-  ➤ Abweichung prozentual: +225.00%
-
-ChatGPTo1 – TextB – aufzuzeigen
-  ➤ Abweichung absolut: +6.77
-  ➤ Abweichung prozentual: +129.41%
-
-Deepseek-R1 – TextB – stützen
-  ➤ Abweichung absolut: +6.69
-  ➤ Abweichung prozentual: +202.33%
-
-Deepseek-R1 – TextB – bleiben
-  ➤ Abweichung absolut: +6.54
-  ➤ Abweichung prozentual: +265.62%
-
-Geminiflash2.0thinking – TextB – adaptieren
-  ➤ Abweichung absolut: +6.54
-  ➤ Abweichung prozentual: +52.47%
-
-ChatGPTo1 – TextB – akzeptieren
-  ➤ Abweichung absolut: +6.38
-  ➤ Abweichung prozentual: +96.51%
-
-Gemini2.0Flash – TextA – auseinandergesetzt
-  ➤ Abweichung absolut: +6.31
-  ➤ Abweichung prozentual: +234.29%
-
-HumanText – Original – zusammenfassen
-  ➤ Abweichung absolut: +6.23
-  ➤ Abweichung prozentual: +92.05%
-
-ChatGPTo1 – TextB – erläutern
-  ➤ Abweichung absolut: +6.08
-  ➤ Abweichung prozentual: +316.00%
-
-Gemini2.0Flash – TextB – erforschen
-  ➤ Abweichung absolut: +6.00
-  ➤ Abweichung prozentual: +60.00%
-
-ChatGPT4o – TextB – präsentieren
-  ➤ Abweichung absolut: +6.00
-  ➤ Abweichung prozentual: +75.00%
-
-ChatGPTo1 – TextB – bringen
-  ➤ Abweichung absolut: +6.00
-  ➤ Abweichung prozentual: +600.00%
-
-Deepseek-R1 – TextB – folgen
-  ➤ Abweichung absolut: +5.54
-  ➤ Abweichung prozentual: +101.41%
-
-HumanText – Original – bestehen
-  ➤ Abweichung absolut: +5.38
-  ➤ Abweichung prozentual: +333.33%
+HumanText – Original – beginnen
+  ➤ Abweichung absolut: +8.85
+  ➤ Abweichung prozentual: +766.67%
 
 
 Top 30 Unterrepräsentationen:
 
 ChatGPT4o – TextA – adaptieren
-  ➤ Abweichung absolut: -8.46
-  ➤ Abweichung prozentual: -67.90%
-
-Deepseek-R1 – TextA – stehen
-  ➤ Abweichung absolut: -6.69
-  ➤ Abweichung prozentual: -45.55%
-
-ChatGPTo1 – TextB – stehen
-  ➤ Abweichung absolut: -5.69
-  ➤ Abweichung prozentual: -38.74%
-
-Gemini2.0Flash – TextA – akzeptieren
-  ➤ Abweichung absolut: -5.62
-  ➤ Abweichung prozentual: -84.88%
-
-ChatGPTo1 – TextA – auswerten
-  ➤ Abweichung absolut: -5.54
-  ➤ Abweichung prozentual: -52.55%
-
-Deepseek-R1 – TextA – diskutieren
-  ➤ Abweichung absolut: -5.54
-  ➤ Abweichung prozentual: -64.86%
+  ➤ Abweichung absolut: -13.00
+  ➤ Abweichung prozentual: -65.00%
 
 ChatGPT4o – TextA – diskutieren
-  ➤ Abweichung absolut: -5.54
-  ➤ Abweichung prozentual: -64.86%
+  ➤ Abweichung absolut: -11.08
+  ➤ Abweichung prozentual: -68.90%
 
-ChatGPTo1 – TextA – adaptieren
-  ➤ Abweichung absolut: -5.46
-  ➤ Abweichung prozentual: -43.83%
+HumanText – Original – analysiert
+  ➤ Abweichung absolut: -10.69
+  ➤ Abweichung prozentual: -91.45%
 
-ChatGPT4o – TextB – adaptieren
-  ➤ Abweichung absolut: -5.46
-  ➤ Abweichung prozentual: -43.83%
+ChatGPTo1 – TextB – stehen
+  ➤ Abweichung absolut: -10.54
+  ➤ Abweichung prozentual: -41.27%
 
-HumanText – Original – erforschen
-  ➤ Abweichung absolut: -5.00
-  ➤ Abweichung prozentual: -50.00%
-
-Geminiflash2.0thinking – TextA – erforschen
-  ➤ Abweichung absolut: -5.00
-  ➤ Abweichung prozentual: -50.00%
-
-HumanText – Original – widmen
-  ➤ Abweichung absolut: -4.92
-  ➤ Abweichung prozentual: -100.00%
-
-ChatGPTo1 – TextA – widmen
-  ➤ Abweichung absolut: -4.92
-  ➤ Abweichung prozentual: -100.00%
-
-Deepseek-R1 – TextB – geben
-  ➤ Abweichung absolut: -4.85
-  ➤ Abweichung prozentual: -100.00%
-
-ChatGPT4o – TextA – geben
-  ➤ Abweichung absolut: -4.85
-  ➤ Abweichung prozentual: -100.00%
-
-ChatGPTo1 – TextB – attestieren
-  ➤ Abweichung absolut: -4.85
-  ➤ Abweichung prozentual: -100.00%
-
-Deepseek-V3 – TextA – zusammenfassen
-  ➤ Abweichung absolut: -4.77
-  ➤ Abweichung prozentual: -70.45%
-
-ChatGPT4o – TextA – auswerten
-  ➤ Abweichung absolut: -4.54
-  ➤ Abweichung prozentual: -43.07%
-
-Deepseek-V3 – TextA – diskutieren
-  ➤ Abweichung absolut: -4.54
-  ➤ Abweichung prozentual: -53.15%
-
-Deepseek-V3 – TextA – folgen
-  ➤ Abweichung absolut: -4.46
-  ➤ Abweichung prozentual: -81.69%
-
-Deepseek-V3 – TextB – adaptieren
-  ➤ Abweichung absolut: -4.46
-  ➤ Abweichung prozentual: -35.80%
-
-HumanText – Original – leisten
-  ➤ Abweichung absolut: -4.38
-  ➤ Abweichung prozentual: -81.43%
-
-Gemini2.0Flash – TextA – aufzuzeigen
-  ➤ Abweichung absolut: -4.23
-  ➤ Abweichung prozentual: -80.88%
-
-ChatGPTo1 – TextB – einnehmen
-  ➤ Abweichung absolut: -4.08
-  ➤ Abweichung prozentual: -100.00%
-
-Deepseek-R1 – TextA – präsentieren
-  ➤ Abweichung absolut: -4.00
-  ➤ Abweichung prozentual: -50.00%
+Gemini2.0Flash – TextA – diskutieren
+  ➤ Abweichung absolut: -10.08
+  ➤ Abweichung prozentual: -62.68%
 
 Gemini2.0Flash – TextA – präsentieren
-  ➤ Abweichung absolut: -4.00
-  ➤ Abweichung prozentual: -50.00%
+  ➤ Abweichung absolut: -10.00
+  ➤ Abweichung prozentual: -62.50%
 
-ChatGPTo1 – TextA – präsentieren
-  ➤ Abweichung absolut: -4.00
-  ➤ Abweichung prozentual: -50.00%
+Gemini2.0Flash – TextA – aufzuzeigen
+  ➤ Abweichung absolut: -9.46
+  ➤ Abweichung prozentual: -70.29%
 
-Deepseek-R1 – TextA – beachten
-  ➤ Abweichung absolut: -4.00
-  ➤ Abweichung prozentual: -100.00%
+Gemini2.0Flash – TextA – akzeptieren
+  ➤ Abweichung absolut: -9.15
+  ➤ Abweichung prozentual: -82.07%
+
+HumanText – Original – widmen
+  ➤ Abweichung absolut: -8.54
+  ➤ Abweichung prozentual: -89.52%
+
+Deepseek-V3 – TextA – folgen
+  ➤ Abweichung absolut: -8.54
+  ➤ Abweichung prozentual: -89.52%
+
+Gemini2.0Flash – TextB – akzeptieren
+  ➤ Abweichung absolut: -8.15
+  ➤ Abweichung prozentual: -73.10%
+
+HumanText – Original – leisten
+  ➤ Abweichung absolut: -8.08
+  ➤ Abweichung prozentual: -80.15%
+
+Gemini2.0Flash – TextA – adaptieren
+  ➤ Abweichung absolut: -8.00
+  ➤ Abweichung prozentual: -40.00%
+
+ChatGPT4o – TextB – adaptieren
+  ➤ Abweichung absolut: -8.00
+  ➤ Abweichung prozentual: -40.00%
+
+Deepseek-V3 – TextB – adaptieren
+  ➤ Abweichung absolut: -8.00
+  ➤ Abweichung prozentual: -40.00%
+
+ChatGPTo1 – TextA – analysiert
+  ➤ Abweichung absolut: -7.69
+  ➤ Abweichung prozentual: -65.79%
+
+ChatGPT4o – TextA – stehen
+  ➤ Abweichung absolut: -7.54
+  ➤ Abweichung prozentual: -29.52%
+
+Geminiflash2.0thinking – TextA – folgen
+  ➤ Abweichung absolut: -7.54
+  ➤ Abweichung prozentual: -79.03%
 
 ChatGPTo1 – TextB – widmen
-  ➤ Abweichung absolut: -3.92
-  ➤ Abweichung prozentual: -79.69%
+  ➤ Abweichung absolut: -7.54
+  ➤ Abweichung prozentual: -79.03%
 
-ChatGPT4o – TextB – widmen
-  ➤ Abweichung absolut: -3.92
-  ➤ Abweichung prozentual: -79.69%
+ChatGPTo1 – TextA – widmen
+  ➤ Abweichung absolut: -7.54
+  ➤ Abweichung prozentual: -79.03%
+
+Deepseek-V3 – TextA – diskutieren
+  ➤ Abweichung absolut: -7.08
+  ➤ Abweichung prozentual: -44.02%
+
+Deepseek-R1 – TextA – diskutieren
+  ➤ Abweichung absolut: -7.08
+  ➤ Abweichung prozentual: -44.02%
+
+ChatGPTo1 – TextA – diskutieren
+  ➤ Abweichung absolut: -7.08
+  ➤ Abweichung prozentual: -44.02%
+
+Gemini2.0Flash – TextB – adaptieren
+  ➤ Abweichung absolut: -7.00
+  ➤ Abweichung prozentual: -35.00%
+
+Deepseek-R1 – TextA – präsentieren
+  ➤ Abweichung absolut: -7.00
+  ➤ Abweichung prozentual: -43.75%
+
+Deepseek-V3 – TextA – adaptieren
+  ➤ Abweichung absolut: -7.00
+  ➤ Abweichung prozentual: -35.00%
+
+ChatGPT4o – TextA – präsentieren
+  ➤ Abweichung absolut: -7.00
+  ➤ Abweichung prozentual: -43.75%
+
+ChatGPTo1 – TextA – erforschen
+  ➤ Abweichung absolut: -6.77
+  ➤ Abweichung prozentual: -34.24%
+
+ChatGPT4o – TextA – erforschen
+  ➤ Abweichung absolut: -6.77
+  ➤ Abweichung prozentual: -34.24%
+
+ChatGPT4o – TextA – aufzeichnen
+  ➤ Abweichung absolut: -6.77
+  ➤ Abweichung prozentual: -87.13%
 
