@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wegerhoff
+    given-names: Dennis
+    orcid: https://orcid.org/0009-0006-7904-6117
+title: "Semantic Analysis of AI Generated text"
+version: 2.0.4
+identifiers:
+  - type: doi
+    value: 
+date-released: 2025-05-02
