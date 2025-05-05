@@ -26,6 +26,9 @@ based on the files produced by clustering.py, this script creates a plot that di
 **Heatmap_Kategorien.py**
 based on the files produced by clustering.py, this script creates an interactice heatmap that displays the top 100 occurences of each semantic category in each model. The heatmaps can be found in the resepctive NLTK/scripts/Kategorisierungen_*-Folders as interaktive_heatmap.html. It creates heatmaps for all NLTK/scripts/Kategorisierungen_*-Folders automatically.
 
+##Acknowledgments
+
+**-Yannic Pixberg - for his contribution of texts to the corpus database**
 
 
 
