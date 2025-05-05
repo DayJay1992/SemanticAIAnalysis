@@ -28,7 +28,7 @@ based on the files produced by clustering.py, this script creates an interactice
 
 ##Acknowledgments
 
-**-Yannic Pixberg - for his contribution of texts to the corpus database**
+-Yannic Pixberg - for his contribution of texts to the corpus database
 
 
 
