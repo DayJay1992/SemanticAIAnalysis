@@ -32,11 +32,11 @@ for ordner in pathes:
         text=text,
         texttemplate="%{text}",
         colorscale="YlOrRd",
-        colorbar=dict(title="Häufigkeit")
+        colorbar=dict(title="Frequency")
     ))
 
     fig.update_layout(
-        title="Interaktive Heatmap: Kategorienutzung pro Modell",
+        title="Heatmap: Semantic categories per model",
         xaxis_title="Kategorie",
         yaxis_title="Modell – Texttyp",
         xaxis_tickangle=-45,
