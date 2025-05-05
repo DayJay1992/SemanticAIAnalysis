@@ -17,6 +17,7 @@ for ordner in pathes:
 
     # 🔹 Entferne unnötige Spalten
     df = df.drop(columns=["Model", "TextType"])
+    df = df[sorted(df.columns)]  # 🔁 Alphabetical sorting of categories
 
     # 🔹 Sicherstellen, dass alle Werte numerisch sind
     df = df.fillna(0).astype(float)
