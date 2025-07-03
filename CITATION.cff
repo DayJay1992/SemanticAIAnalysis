@@ -5,7 +5,7 @@ authors:
     given-names: Dennis
     orcid: https://orcid.org/0009-0006-7904-6117
 title: "Semantic Analysis of AI Generated text"
-version: 1.3
+version: 0.4-Beta
 identifiers:
   - type: doi
     value: 
