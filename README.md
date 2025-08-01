@@ -18,13 +18,13 @@ basically reads, filters, tokenizes and lemmatizes all texts and counts the tota
 The scripts does several additional runs where it does the same but calculates adjectives (ADJ), adverbs (ADV), Nouns (NOUN) and Verbs (VERBS) seperately for convencience. The excel files only contain the top 100 lemmas of all models for performance reasons. The complete analysis is saved in /NLTK/scripts/unique_lemmata_output/ as a.txt-file for each model and POS. The used language model is *de_core_news_lg* from the *spacy* package.
 
 **clustering.py**
-clustering.py tries to put all lemmas into categories of lemmas with similar semantic meaning. "Semantic meaning", in this case, is the embedding vector assigned to each lemma by the *de_core_news_lg* model. In this case, if two lemmas have a cosine similarity of at least 0.7, they are put into the same semantic category. Then, the occurences of each category in every text sort is counted. The results and the global categories are printed in the NLTK/scripts/Kategorisierungen_*-Folders. Again, one run takes all POS into accounts (NLTK/scripts/Kategorisierungen_Alle), but there are additional runs for each POS (and different combinations of POS, such as adjectives and adverbs) seperately. 
+clustering.py tries to put all lemmas into categories of lemmas with similar semantic meaning. "Semantic meaning", in this case, is the embedding vector assigned to each lemma by the *de_core_news_lg* model. In this case, if two lemmas have a cosine similarity of at least 0.7, they are put into the same semantic category. Then, the occurences of each category in every text sort is counted. The results and the global categories are printed in the NLTK/scripts/Kategorisierungen_*-Folders. Again, one run takes all POS into account (NLTK/scripts/Kategorisierungen_Alle), but there are additional runs for each POS (and different combinations of POS, such as adjectives and adverbs) separately. 
 
 **abweichungen_kategorien.py**
 based on the files produced by clustering.py, this script creates a plot that displays the top 30 over- and underrepresented lemmas compared to avarage appearance. The plot can be found in the resepctive NLTK/scripts/Kategorisierungen_*-Folders as abweichungen_kategorien_plot.png. It creates plots for all NLTK/scripts/Kategorisierungen_*-Folders automatically
 
 **Heatmap_Kategorien.py**
-based on the files produced by clustering.py, this script creates an interactice heatmap that displays the top 100 occurences of each semantic category in each model. The heatmaps can be found in the resepctive NLTK/scripts/Kategorisierungen_*-Folders as interaktive_heatmap.html. It creates heatmaps for all NLTK/scripts/Kategorisierungen_*-Folders automatically.
+based on the files produced by clustering.py, this script creates an interactive heatmap that displays the top 100 occurences of each semantic category in each model. The heatmaps can be found in the resepctive NLTK/scripts/Kategorisierungen_*-Folders as interaktive_heatmap.html. It creates heatmaps for all NLTK/scripts/Kategorisierungen_*-Folders automatically.
 
 ##Acknowledgments
 

@@ -40,23 +40,23 @@ Gemini2.0Flash – TextB – abschließend
   ➤ Abweichung absolut: +17.62
   ➤ Abweichung prozentual: +114.50%
 
-HumanText – Original – folgend
-  ➤ Abweichung absolut: +17.54
-  ➤ Abweichung prozentual: +506.67%
-
 Deepseek-V3 – TextB – didaktisch
   ➤ Abweichung absolut: +17.54
   ➤ Abweichung prozentual: +153.02%
+
+HumanText – Original – folgend
+  ➤ Abweichung absolut: +17.54
+  ➤ Abweichung prozentual: +506.67%
 
 ChatGPT4o – TextB – grammatikalisch
   ➤ Abweichung absolut: +16.69
   ➤ Abweichung prozentual: +18.90%
 
-Gemini2.0Flash – TextA – differenzieren
+Gemini2.0Flash – TextB – differenzieren
   ➤ Abweichung absolut: +16.31
   ➤ Abweichung prozentual: +58.89%
 
-Gemini2.0Flash – TextB – differenzieren
+Gemini2.0Flash – TextA – differenzieren
   ➤ Abweichung absolut: +16.31
   ➤ Abweichung prozentual: +58.89%
 
@@ -84,11 +84,11 @@ ChatGPT4o – TextB – einerseits
   ➤ Abweichung absolut: +13.62
   ➤ Abweichung prozentual: +58.22%
 
-ChatGPT4o – TextB – faktisch
+ChatGPTo1 – TextB – faktisch
   ➤ Abweichung absolut: +13.54
   ➤ Abweichung prozentual: +66.17%
 
-ChatGPTo1 – TextB – faktisch
+ChatGPT4o – TextB – faktisch
   ➤ Abweichung absolut: +13.54
   ➤ Abweichung prozentual: +66.17%
 
@@ -139,11 +139,11 @@ ChatGPT4o – TextA – analytisch
   ➤ Abweichung absolut: -16.62
   ➤ Abweichung prozentual: -34.18%
 
-Deepseek-R1 – TextB – differenzieren
+ChatGPT4o – TextA – differenzieren
   ➤ Abweichung absolut: -15.69
   ➤ Abweichung prozentual: -56.67%
 
-ChatGPT4o – TextA – differenzieren
+Deepseek-R1 – TextB – differenzieren
   ➤ Abweichung absolut: -15.69
   ➤ Abweichung prozentual: -56.67%
 
@@ -219,17 +219,13 @@ HumanText – Original – abschließend
   ➤ Abweichung absolut: -9.38
   ➤ Abweichung prozentual: -61.00%
 
-Deepseek-V3 – TextA – einerseits
-  ➤ Abweichung absolut: -9.38
-  ➤ Abweichung prozentual: -40.13%
-
 HumanText – Original – einerseits
   ➤ Abweichung absolut: -9.38
   ➤ Abweichung prozentual: -40.13%
 
-ChatGPTo1 – TextA – grammatikalisch
-  ➤ Abweichung absolut: -9.31
-  ➤ Abweichung prozentual: -10.54%
+Deepseek-V3 – TextA – einerseits
+  ➤ Abweichung absolut: -9.38
+  ➤ Abweichung prozentual: -40.13%
 
 ChatGPT4o – TextA – grammatikalisch
   ➤ Abweichung absolut: -9.31
@@ -238,6 +234,10 @@ ChatGPT4o – TextA – grammatikalisch
 ChatGPT4o – TextA – deutsch
   ➤ Abweichung absolut: -9.31
   ➤ Abweichung prozentual: -28.81%
+
+ChatGPTo1 – TextA – grammatikalisch
+  ➤ Abweichung absolut: -9.31
+  ➤ Abweichung prozentual: -10.54%
 
 ChatGPTo1 – TextB – hochkomplex
   ➤ Abweichung absolut: -8.85

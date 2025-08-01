@@ -92,13 +92,13 @@ HumanText – Original – abhängigkeit
   ➤ Abweichung absolut: +15.62
   ➤ Abweichung prozentual: +57.02%
 
-Deepseek-R1 – TextA – interaktion
-  ➤ Abweichung absolut: +15.31
-  ➤ Abweichung prozentual: +64.61%
-
 Deepseek-R1 – TextA – syntax
   ➤ Abweichung absolut: +15.31
   ➤ Abweichung prozentual: +73.98%
+
+Deepseek-R1 – TextA – interaktion
+  ➤ Abweichung absolut: +15.31
+  ➤ Abweichung prozentual: +64.61%
 
 ChatGPTo1 – TextB – ergebnis
   ➤ Abweichung absolut: +15.15
@@ -159,11 +159,11 @@ ChatGPT4o – TextB – position
   ➤ Abweichung absolut: -13.46
   ➤ Abweichung prozentual: -39.06%
 
-Deepseek-V3 – TextA – ansatz
+ChatGPT4o – TextA – ansatz
   ➤ Abweichung absolut: -13.08
   ➤ Abweichung prozentual: -37.28%
 
-ChatGPT4o – TextA – ansatz
+Deepseek-V3 – TextA – ansatz
   ➤ Abweichung absolut: -13.08
   ➤ Abweichung prozentual: -37.28%
 
@@ -239,7 +239,7 @@ Gemini2.0Flash – TextA – abschnitt
   ➤ Abweichung absolut: -10.54
   ➤ Abweichung prozentual: -100.00%
 
-Geminiflash2.0thinking – TextA – kapitel
+Deepseek-V3 – TextA – kapitel
   ➤ Abweichung absolut: -10.54
   ➤ Abweichung prozentual: -100.00%
 

@@ -116,7 +116,7 @@ Geminiflash2.0thinking – TextB – spezifisch
   ➤ Abweichung absolut: +17.38
   ➤ Abweichung prozentual: +149.67%
 
-Geminiflash2.0thinking – TextA – grammatikalisch
+Deepseek-R1 – TextB – grammatikalisch
   ➤ Abweichung absolut: +17.08
   ➤ Abweichung prozentual: +17.62%
 
@@ -203,17 +203,13 @@ HumanText – Original – aufsatz
   ➤ Abweichung absolut: -13.54
   ➤ Abweichung prozentual: -62.86%
 
-Deepseek-V3 – TextB – digitalisierung
-  ➤ Abweichung absolut: -13.38
-  ➤ Abweichung prozentual: -28.86%
-
 Gemini2.0Flash – TextB – digitalisierung
   ➤ Abweichung absolut: -13.38
   ➤ Abweichung prozentual: -28.86%
 
-ChatGPT4o – TextA – ansatz
-  ➤ Abweichung absolut: -13.08
-  ➤ Abweichung prozentual: -37.28%
+Deepseek-V3 – TextB – digitalisierung
+  ➤ Abweichung absolut: -13.38
+  ➤ Abweichung prozentual: -28.86%
 
 Deepseek-V3 – TextA – ansatz
   ➤ Abweichung absolut: -13.08
@@ -222,6 +218,10 @@ Deepseek-V3 – TextA – ansatz
 ChatGPT4o – TextA – deutsch
   ➤ Abweichung absolut: -13.08
   ➤ Abweichung prozentual: -31.84%
+
+ChatGPT4o – TextA – ansatz
+  ➤ Abweichung absolut: -13.08
+  ➤ Abweichung prozentual: -37.28%
 
 Deepseek-R1 – TextB – begründung
   ➤ Abweichung absolut: -13.00

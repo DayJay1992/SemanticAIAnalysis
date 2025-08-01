@@ -171,19 +171,19 @@ ChatGPT4o – TextA – adaptieren
   ➤ Abweichung absolut: -13.15
   ➤ Abweichung prozentual: -68.67%
 
-Deepseek-V3 – TextA – ansatz
-  ➤ Abweichung absolut: -13.08
-  ➤ Abweichung prozentual: -37.28%
-
 ChatGPT4o – TextA – ansatz
   ➤ Abweichung absolut: -13.08
   ➤ Abweichung prozentual: -37.28%
 
-Deepseek-V3 – TextA – arbeit
+Deepseek-V3 – TextA – ansatz
+  ➤ Abweichung absolut: -13.08
+  ➤ Abweichung prozentual: -37.28%
+
+ChatGPTo1 – TextB – arbeit
   ➤ Abweichung absolut: -12.85
   ➤ Abweichung prozentual: -68.16%
 
-ChatGPTo1 – TextB – arbeit
+Deepseek-V3 – TextA – arbeit
   ➤ Abweichung absolut: -12.85
   ➤ Abweichung prozentual: -68.16%
 
@@ -191,11 +191,11 @@ HumanText – Original – phänomen
   ➤ Abweichung absolut: -12.46
   ➤ Abweichung prozentual: -64.03%
 
-ChatGPTo1 – TextA – aussprache
+ChatGPTo1 – TextB – aussprache
   ➤ Abweichung absolut: -12.31
   ➤ Abweichung prozentual: -43.48%
 
-ChatGPTo1 – TextB – aussprache
+ChatGPTo1 – TextA – aussprache
   ➤ Abweichung absolut: -12.31
   ➤ Abweichung prozentual: -43.48%
 

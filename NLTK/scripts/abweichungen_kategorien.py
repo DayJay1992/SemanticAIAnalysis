@@ -62,12 +62,15 @@ for dir in pathes:
     print("✅ Abweichungen wurden gespeichert unter:", output_path)
 
     # 📊 Balkendiagramm erstellen
-    labels = top_combined["Modell_Typ"] + " – " + top_combined["Kategorie"]
-    values = top_combined["Abweichung_Absolut"]
+    labels = (top_combined["Modell_Typ"].astype(str) + " – " +
+          top_combined["Kategorie"].fillna("Unbekannt").astype(str)).tolist()
+
+    values = top_combined["Abweichung_Absolut"].tolist()
     colors = ["crimson" if v < 0 else "steelblue" for v in values]
 
     plt.figure(figsize=(12, 12))
-    plt.barh(labels, values, color=colors)
+    plt.barh(range(len(labels)), values, color=colors)   # numerische Positionen statt Strings
+    plt.yticks(range(len(labels)), labels)               # Strings als Y-Achsenbeschriftung
     plt.axvline(0, color="black", linewidth=0.8)
     plt.xlabel("Abweichung zur Durchschnittsnutzung")
     plt.title("Top 30 Über- und Unterrepräsentierte Kategorien")
